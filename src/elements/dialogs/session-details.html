@@ -45,7 +45,7 @@
             <h2 class="name">[[session.title]]</h2>
             <div class="tags" hidden$="[[!session.tags.length]]">
               <template is="dom-repeat" items="[[session.tags]]" as="tag">
-                <span class="tag" style$="color: [[_getTagColor(tag)]]">[[tag]]</span>
+                <span class="tag" style$="color: [[getVariableColor(tag)]]">[[tag]]</span>
               </template>
             </div>
 
@@ -104,7 +104,12 @@
           <h3>{$ sessionDetails.speakers $}</h3>
 
           <template is="dom-repeat" items="[[_findSpeakers(session.speakers)]]" as="speaker">
-            <a href$="/speakers/[[speaker.id]]" class="section">
+            <a
+              class="section"
+              href$="/speakers/[[speaker.id]]/"
+              on-tap="_openSpeaker"
+              speaker-id$="[[speaker.id]]"
+            >
               <div layout horizontal center>
                 <plastic-image
                   class="section-photo"
@@ -157,6 +162,10 @@
             type: Object,
             statePath: 'sessions.featured',
           },
+          currentSpeaker: {
+            type: String,
+            statePath: 'routing.subRoute',
+          },
         };
       }
 
@@ -169,11 +178,14 @@
         dialogsActions.closeDialog(DIALOGS.SESSION);
       }
 
-      _getTagColor(value) {
-        if (ShadyCSS) {
-          return ShadyCSS.getComputedStyleValue(this, `--${this.generateClassName(value)}`);
+      _openSpeaker(e) {
+        if (this.disabledSchedule) {
+          const speakerId = e.currentTarget.getAttribute('session-id');
+          if (this.currentSpeaker === speakerId) {
+            e.preventDefault();
+          }
+          this._close();
         }
-        return getComputedStyle(this, `--${this.generateClassName(value)}`);
       }
 
       _getCloseBtnIcon(isLaptopViewport) {
