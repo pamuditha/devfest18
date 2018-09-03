@@ -4,10 +4,8 @@
 
 <link rel="import" href="../elements/about-block.html">
 <link rel="import" href="../elements/speakers-block.html">
-<link rel="import" href="../elements/latest-posts-block.html">
 <link rel="import" href="../elements/tickets-block.html">
 <link rel="import" href="../elements/partners-block.html">
-<link rel="import" href="../elements/featured-videos.html">
 <link rel="import" href="../elements/subscribe-block.html">
 <link rel="import" href="../elements/gallery-block.html">
 <link rel="import" href="../elements/map-block.html">
@@ -151,17 +149,7 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button
-            class="watch-video"
-            on-tap="_playVideo"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-          >
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
-          </paper-button>
+         
           <paper-button
             on-tap="_scrollToTickets"
             ga-on="click"

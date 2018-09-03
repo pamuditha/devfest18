@@ -21,8 +21,10 @@
   },
   "dependencies": {
     "autotrack": "^2.4.1",
+    "firebase-functions": "^2.0.5",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "yarn": "^1.9.4"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.52",
