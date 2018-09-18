@@ -73,16 +73,28 @@
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ,{
       "logoUrl" : "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-card.png",
-      "name" : "Google",
+      "name" : "Google Cloud",
       "url" : "https://www.google.com.ua/intl/en/about/"
     }],
 
-    "title" : "General sponsor"
+    "title" : "Diamond Sponsor"
   } ,{
     "logos" : [ {
-      "logoUrl" : "https://www.vectorlogo.zone/logos/jetbrains/jetbrains-card.png",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FopenSUSE_logo.png?alt=media&token=903855f3-c819-42b0-af75-602459e90685",
       "name" : "jetbrains",
       "url" : "https://www.jetbrains.com/"
+    }],
+
+    "title" : "Silver Sponsor"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://www.vectorlogo.zone/logos/jetbrains/jetbrains-card.png",
+      "name" : "open SUSE",
+      "url" : "https://www.opensuse.org/"
+    } ,{
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FGitHub-Logo.png?alt=media&token=9924aaa4-bf1e-4582-9cfc-4b28ecda6d20",
+      "name" : "GitHub",
+      "url" : "https://www.GitHub.com/"
     } ],
 
     "title" : "General partners"
@@ -95,6 +107,14 @@
     } ],
 
     "title" : "Venue partner"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Freadmelogo.png?alt=media&token=aec016f6-3833-4ace-8e85-938ea4ff547c",
+      "name" : "ReadMe",
+      "url" : "https://www.readme.lk/"
+    } ],
+
+    "title" : "Digital Media Partner"
   }
 
 
@@ -877,10 +897,10 @@
         "link" : "https://www.facebook.com/pasan.artz",
         "name" : "Google+"
       } ],
-      "title" : "Chief Media Officer"
+      "title" : "Media Officer"
     },{
       "name" : "Michela Thalagala",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.jpg?alt=media&token=275a60dc-b4ea-4151-ad0e-110f55964182",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/u/0/+MichelaThalagala",
@@ -921,11 +941,6 @@
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fruwan.jpg?alt=media&token=a2323a32-5910-4b90-bb56-d6dc63113091",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fruwan.jpg?alt=media&token=a2323a32-5910-4b90-bb56-d6dc63113091",
       "title" : "Speaker & Community Organizer"
-    } ,{
-      "name" : "Shafraz Rahim",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fshafrz.jpg?alt=media&token=d4f0c9ce-ac27-4a27-a218-a8c6f31b1ef7",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fshafrz.jpg?alt=media&token=d4f0c9ce-ac27-4a27-a218-a8c6f31b1ef7",
-      "title" : "Person , who make community wow"
     } ,
     {
       "name" : "Anusha Gamlath",
