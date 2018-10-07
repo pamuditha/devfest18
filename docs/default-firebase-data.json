@@ -351,7 +351,7 @@
       "title" : "AR Core with Cloud Anchors"
     },
     "111" : {
-      "complexity" : "advance",
+      "complexity" : "advanced",
       "description" : "",
       "language" : "English",
       "presentation" : "",
@@ -377,7 +377,7 @@
       "title" : "TBD"
     },
     "113" : {
-      "complexity" : "advance",
+      "complexity" : "advanced",
       "description" : "",
       "language" : "English",
       "presentation" : "",
@@ -745,7 +745,7 @@
     "available" : true,
     "currency" : "$",
     "ends" : "Oct 10",
-    "info" : "Requires valid nic or passpot",
+    "info" : "Requires valid NIC or passport",
     "name" : "General",
     "price" : "FREE",
     "soldOut" : false,

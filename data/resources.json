@@ -101,8 +101,8 @@
         "number": "600"
       },
       "days": {
-        "label": "Days",
-        "number": "1"
+        "label": "Segments",
+        "number": "2"
       },
       "sessions": {
         "label": "Sessions",
@@ -116,7 +116,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference, codelabs, coffee breaks and after party.",
+    "ticketsDetails": "Tickets grant access to all conference, codelabs and coffee breaks.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -156,7 +156,7 @@
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "hhttps://photos.app.goo.gl/L15gYxMzgD75zMiA3"
+      "link": "https://photos.app.goo.gl/L15gYxMzgD75zMiA3"
     }
   },
   "mapBlock": {
@@ -213,7 +213,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://gdgsrilanka.org' target='_blank'>GDG Sri Lanka</a> with support of 2 GDGs from all around Sri Lanka is proud organizer of DevFest Sri Lanka",
+        "description": "<a href='http://gdgsrilanka.org' target='_blank'>GDG Sri Lanka</a> with the support of GDG Cloud Chapter of Sri Lanka are the proud organizers of DevFest.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -221,7 +221,7 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developers Group (GDG) - is an open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
