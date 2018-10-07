@@ -129,7 +129,7 @@
         } ],
         "startTime" : "08:00"
       }, {
-        "endTime" : "12:30",
+        "endTime" : "09:45",
         "sessions" : [ {
           "items" : [ 100 ]
         }, {
@@ -304,7 +304,7 @@
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "" ],
-      "tags" : [ "AR Core" ],
+      "tags" : [ "ARCore" ],
       "title" : "TBD"
     },
     "104" : {
