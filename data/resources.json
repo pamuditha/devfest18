@@ -22,7 +22,7 @@
   "position": "Position",
   "country": "Country",
   "time": "Time",
-  "faq": "/data/faq.md",
+  "faq": "",
   "cod": "/data/cod.md",
   "mySchedule": {
     "title": "My Schedule",
@@ -74,7 +74,7 @@
         },
         {
           "name": "FAQs",
-          "url": "/faq/",
+          "url": "",
           "newTab": false
         }
       ]
