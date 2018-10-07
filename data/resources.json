@@ -213,7 +213,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://gdgsrilanka.org' target='_blank'>GDG Sri Lanka</a> with support of 10 GDGs from all around Sri Lanka is proud organizer of DevFest Sri Lanka",
+        "description": "<a href='http://gdgsrilanka.org' target='_blank'>GDG Sri Lanka</a> with support of 2 GDGs from all around Sri Lanka is proud organizer of DevFest Sri Lanka",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
