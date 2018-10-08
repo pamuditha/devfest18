@@ -9,6 +9,7 @@
       "source" : "/data/posts/2017-02-12-c4p.md",
       "title" : "We're looking for speakers"
     },
+
     "dfua-summary" : {
       "backgroundColor" : "#ffc107",
       "brief" : "GDG DevFest Ukraine 2016",
@@ -750,7 +751,7 @@
     "price" : "FREE",
     "soldOut" : false,
     "starts" : "Oct 01",
-    "url" : "https://rsvp.lk"
+    "url" : "devfest18.rsvp.lk/"
   } ],
   "triggers" : {
     "images" : false
