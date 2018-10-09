@@ -560,7 +560,7 @@
       "name" : "Shafraz Rahim",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
-      "shortBio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
+      "shortBio" : "Shafraz is a developer relations manager for Dialog Ideamart",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/shafrazrahim/",
@@ -569,7 +569,7 @@
       "title" : "Senior Business Lead"
     },
     "Chathu_Wishwajith" : {
-      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS.an Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
+      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS. An Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
       "company" : "0Auth",
       "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
       "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
@@ -578,7 +578,7 @@
       "name" : "Chathu Wishwajith",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
-      "shortBio" : "",
+      "shortBio" : "Chathu is a JS expert who works closely with the community",
        "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/thilinapremasiri/",
@@ -628,7 +628,7 @@
         "link" : "https://twitter.com/Pamudithaimalka",
         "name" : "Twitter"
       } ],
-      "title" : "Guy, who gives tasks to others"
+      "title" : "Guy who gives tasks to others, pulls hair when deadlines are near"
     }, {
       "name" : "Milindu Sanoj",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
@@ -654,7 +654,7 @@
         "link" : "https://www.facebook.com/tdevinda",
         "name" : "Facebook"
       } ],
-      "title" : "Person ,who knows the most languages"
+      "title" : "Most probable reason you didn't get a ticket..."
     }, {
       "name" : "Udaya Gunathilaka",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
@@ -667,7 +667,7 @@
         "link" : "https://www.facebook.com/umgunathilaka",
         "name" : "Facebook"
       } ],
-      "title" : "Lights, sound and wow"
+      "title" : "Lights, sounds and wow"
     }, {
       "name" : "Pasan Ranathunga",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpasan.jpg?alt=media&token=58d661e8-1e91-4054-853f-eaea1146ed14",
@@ -676,7 +676,7 @@
         "link" : "https://www.facebook.com/pasan.artz",
         "name" : "Google+"
       } ],
-      "title" : "Media Officer"
+      "title" : "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.!"
     },{
       "name" : "Michela Thalagala",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
@@ -745,12 +745,12 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Oct 10",
+    "ends" : "Oct 20",
     "info" : "Requires valid NIC or passport",
     "name" : "General",
     "price" : "FREE",
     "soldOut" : false,
-    "starts" : "Oct 01",
+    "starts" : "Oct 15",
     "url" : "devfest18.rsvp.lk/"
   } ],
   "triggers" : {
