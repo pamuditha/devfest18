@@ -9,7 +9,6 @@
       "source" : "/data/posts/2017-02-12-c4p.md",
       "title" : "We're looking for speakers"
     },
-
     "dfua-summary" : {
       "backgroundColor" : "#ffc107",
       "brief" : "GDG DevFest Ukraine 2016",
@@ -96,13 +95,7 @@
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FGitHub-Logo.png?alt=media&token=9924aaa4-bf1e-4582-9cfc-4b28ecda6d20",
       "name" : "GitHub",
       "url" : "https://www.GitHub.com/"
-    } ,
-    {
-      "logoUrl" : "https://walls.io/build/downloads/presskit/logo-variations/logo-transparent.png",
-      "name" : "walls.io",
-      "url" : "https://walls.io/"
-    } 
-  ],
+    } ],
 
     "title" : "General partners"
   },
@@ -167,8 +160,7 @@
           "items" : [ 107 ]
         },
         {
-          "items" : [ 108 ],
-          "extend" :2
+          "items" : [ 108 ]
         }, {
           "extend" : 2,
           "items" : [ 109 ]
@@ -181,7 +173,10 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
-        }],
+        },
+         {
+          "items" : [ 113 ]
+        } ],
         "startTime" : "10:45"
       }, {
         "endTime" : "13:00",
@@ -343,7 +338,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "Keshan_Sodimana" ],
+      "speakers" : [ "" ],
       "tags" : [ "ML" ],
       "title" : "TBD"
     },
@@ -352,7 +347,7 @@
       "description" : "ARCore is a platform for building augmented reality apps on Android. Cloud Anchors gives you the ability to create AR apps that share a common frame-of-reference, enabling multiple users to place virtual content in the same real world location that can be seen on different devices in the same position and orientation relative to the environment.This session will walk you through modifying a pre-existing ARCore app to use the Cloud Anchors APIs, and demonstrates how you can create a shared AR experience.",
       "language" : "English",
       "speakers" : [ "Kasun_Delgolla" ],
-      "tags" : [ "ARCore" ],
+      "tags" : [ "AR Core" ],
       "title" : "AR Core with Cloud Anchors"
     },
     "111" : {
@@ -371,6 +366,14 @@
       "presentation" : "",
       "speakers" : [ "" ],
       "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "" ],
+      "tags" : [ "ML" ],
       "title" : "TBD"
     },
     "113" : {
@@ -413,7 +416,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "Ahmad_Shah" ],
+      "speakers" : [ "" ],
       "tags" : [ "Adroid" ],
       "title" : "Publish and Earn with Google"
     },
@@ -433,7 +436,7 @@
       "presentation" : "",
       "speakers" : [ "Shafraz_Rahim" ],
       "tags" : [ "Cloud" ],
-      "title" : "Google Cloud is for you"
+      "title" : "TBD"
     },
     "122" : {
       "complexity" : "Beginner",
@@ -465,7 +468,7 @@
       "description" : "Get your badge",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration"
+      "title" : "Registration & morning Coffee"
     },
     "202" : {
       "description" : "Foooooooood!",
@@ -556,7 +559,7 @@
       "name" : "Shafraz Rahim",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
-      "shortBio" : "Shafraz is a developer relations manager for Dialog Ideamart",
+      "shortBio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/shafrazrahim/",
@@ -565,7 +568,7 @@
       "title" : "Senior Business Lead"
     },
     "Chathu_Wishwajith" : {
-      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS. An Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
+      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS.an Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
       "company" : "0Auth",
       "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
       "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
@@ -574,7 +577,7 @@
       "name" : "Chathu Wishwajith",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
-      "shortBio" : "Chathu is a JS expert who works closely with the community",
+      "shortBio" : "",
        "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/thilinapremasiri/",
@@ -605,30 +608,6 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Senior Tech Lead"
-    },
-        "Ahmad_Shah" : {
-      "badges" : [ {
-        "description" : "Googler",
-        "link" : "www.google.com",
-        "name" : "google"
-      } ],
-      "bio" : "",
-      "company" : "Google",
-      "companyLogo" : "../images/logos/google.svg",
-      "companyLogoUrl" : "../images/logos/google.svg",
-      "country" : "Singapore",
-      "featured" : true,
-      "name" : "Ahmad Shah Nawaz",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
-      "shortBio" : "",
-      "socials" : [ 
-       {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/ahmad-shah-nawaz-88aba0a",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Head of Partnerships, South Asia Frontier"
     }
   },
   "team" : [ {
@@ -648,7 +627,7 @@
         "link" : "https://twitter.com/Pamudithaimalka",
         "name" : "Twitter"
       } ],
-      "title" : "Guy who gives tasks to others, pulls hair when deadlines are near"
+      "title" : "Guy, who gives tasks to others"
     }, {
       "name" : "Milindu Sanoj",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
@@ -674,7 +653,7 @@
         "link" : "https://www.facebook.com/tdevinda",
         "name" : "Facebook"
       } ],
-      "title" : "Most probable reason you didn't get a ticket..."
+      "title" : "Person ,who knows the most languages"
     }, {
       "name" : "Udaya Gunathilaka",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
@@ -687,7 +666,7 @@
         "link" : "https://www.facebook.com/umgunathilaka",
         "name" : "Facebook"
       } ],
-      "title" : "Lights, sounds and wow"
+      "title" : "Lights, sound and wow"
     }, {
       "name" : "Pasan Ranathunga",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpasan.jpg?alt=media&token=58d661e8-1e91-4054-853f-eaea1146ed14",
@@ -696,7 +675,7 @@
         "link" : "https://www.facebook.com/pasan.artz",
         "name" : "Google+"
       } ],
-      "title" : "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.!"
+      "title" : "Media Officer"
     },{
       "name" : "Michela Thalagala",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
@@ -770,8 +749,8 @@
     "name" : "General",
     "price" : "FREE",
     "soldOut" : false,
-    "starts" : "Oct 15",
-    "url" : "http://devfest18.rsvp.lk/gdgsrilanka/devfest-2018"
+    "starts" : "Oct 01",
+    "url" : "https://rsvp.lk"
   } ],
   "triggers" : {
     "images" : false
