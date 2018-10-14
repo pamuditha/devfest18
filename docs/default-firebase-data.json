@@ -743,7 +743,7 @@
   } ],
   "tickets" : [ {
     "available" : true,
-    "currency" : "$",
+    "currency" : "",
     "ends" : "Oct 10",
     "info" : "Requires valid NIC or passport",
     "name" : "General",
