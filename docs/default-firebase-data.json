@@ -96,7 +96,13 @@
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FGitHub-Logo.png?alt=media&token=9924aaa4-bf1e-4582-9cfc-4b28ecda6d20",
       "name" : "GitHub",
       "url" : "https://www.GitHub.com/"
-    } ],
+    } ,
+    {
+      "logoUrl" : "https://walls.io/build/downloads/presskit/logo-variations/logo-transparent.png",
+      "name" : "walls.io",
+      "url" : "https://walls.io/"
+    } 
+  ],
 
     "title" : "General partners"
   },
@@ -161,7 +167,8 @@
           "items" : [ 107 ]
         },
         {
-          "items" : [ 108 ]
+          "items" : [ 108 ],
+          "extend" :2
         }, {
           "extend" : 2,
           "items" : [ 109 ]
@@ -174,10 +181,7 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
-        },
-         {
-          "items" : [ 113 ]
-        } ],
+        }],
         "startTime" : "10:45"
       }, {
         "endTime" : "13:00",
@@ -339,7 +343,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Keshan_Sodimana" ],
       "tags" : [ "ML" ],
       "title" : "TBD"
     },
@@ -348,7 +352,7 @@
       "description" : "ARCore is a platform for building augmented reality apps on Android. Cloud Anchors gives you the ability to create AR apps that share a common frame-of-reference, enabling multiple users to place virtual content in the same real world location that can be seen on different devices in the same position and orientation relative to the environment.This session will walk you through modifying a pre-existing ARCore app to use the Cloud Anchors APIs, and demonstrates how you can create a shared AR experience.",
       "language" : "English",
       "speakers" : [ "Kasun_Delgolla" ],
-      "tags" : [ "AR Core" ],
+      "tags" : [ "ARCore" ],
       "title" : "AR Core with Cloud Anchors"
     },
     "111" : {
@@ -367,14 +371,6 @@
       "presentation" : "",
       "speakers" : [ "" ],
       "tags" : [ "Web" ],
-      "title" : "TBD"
-    },
-    "113" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "" ],
-      "tags" : [ "ML" ],
       "title" : "TBD"
     },
     "113" : {
@@ -437,7 +433,7 @@
       "presentation" : "",
       "speakers" : [ "Shafraz_Rahim" ],
       "tags" : [ "Cloud" ],
-      "title" : "TBD"
+      "title" : "Google Cloud is for you"
     },
     "122" : {
       "complexity" : "Beginner",
@@ -469,7 +465,7 @@
       "description" : "Get your badge",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "Registration"
     },
     "202" : {
       "description" : "Foooooooood!",
@@ -751,7 +747,7 @@
     "price" : "FREE",
     "soldOut" : false,
     "starts" : "Oct 15",
-    "url" : "devfest18.rsvp.lk/"
+    "url" : "http://devfest18.rsvp.lk/"
   } ],
   "triggers" : {
     "images" : false
