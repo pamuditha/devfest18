@@ -413,7 +413,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Ahmad_Shah" ],
       "tags" : [ "Adroid" ],
       "title" : "Publish and Earn with Google"
     },
@@ -605,6 +605,30 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Senior Tech Lead"
+    },
+        "Ahmad_Shah" : {
+      "badges" : [ {
+        "description" : "Googler",
+        "link" : "www.google.com",
+        "name" : "google"
+      } ],
+      "bio" : "",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.svg",
+      "companyLogoUrl" : "../images/logos/google.svg",
+      "country" : "Singapore",
+      "featured" : true,
+      "name" : "Ahmad Shah Nawaz",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
+      "shortBio" : "",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ahmad-shah-nawaz-88aba0a",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Head of Partnerships, South Asia Frontier"
     }
   },
   "team" : [ {
