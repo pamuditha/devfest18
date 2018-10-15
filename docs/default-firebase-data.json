@@ -78,20 +78,20 @@
       "url" : "https://www.google.com.ua/intl/en/about/"
     }],
 
-    "title" : "Diamond Sponsor"
+    "title" : "Supported By"
   } ,{
     "logos" : [ {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FopenSUSE_logo.png?alt=media&token=903855f3-c819-42b0-af75-602459e90685",
-      "name" : "jetbrains",
-      "url" : "https://www.jetbrains.com/"
+      "name" : "Open Suse",
+      "url" : "https://www.opensuse.org/"
     }],
 
-    "title" : "Silver Sponsor"
+    "title" : "Gold Sponsor"
   },{
     "logos" : [ {
       "logoUrl" : "https://www.vectorlogo.zone/logos/jetbrains/jetbrains-card.png",
-      "name" : "open SUSE",
-      "url" : "https://www.opensuse.org/"
+      "name" : "jetbrains",
+      "url" : "https://www.jetbrains.com/"
     } ,{
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FGitHub-Logo.png?alt=media&token=9924aaa4-bf1e-4582-9cfc-4b28ecda6d20",
       "name" : "GitHub",
@@ -108,8 +108,8 @@
   },
   {
     "logos" : [ {
-      "logoUrl" : "http://icobi.nsbm.lk/pic/nsbm.png",
-      "name" : "NSBM Green University",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Ffoss_nsbm2.png?alt=media&token=d0ddc8bb-8f4c-46ac-ad25-3ec1cd8028f0",
+      "name" : "NSBM Foss Community",
       "url" : "https://www.nsbm.lk/"
     } ],
 
@@ -317,7 +317,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Chathu_Wishwajith" ],
       "tags" : [ "Flutter" ],
       "title" : "Codelab"
     },
@@ -454,12 +454,12 @@
     },
     "124" : {
       "complexity" : "Intermediate",
-      "description" : "",
+      "description" : "This session will guide you through how to build you first ASP.NET Core Application that will store data in MySQL. At the end how to host it under Google Cloud.",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Fiqri_Ismail" ],
       "tags" : [ "Cloud" ],
-      "title" : "TBD"
+      "title" : "Your first ASP.NET Core Application in GCP"
     },
     "200" : {
       "description" : "Get your badge",
@@ -508,9 +508,9 @@
     
     "Kasun_Delgolla" : {
       "bio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B where he leads all the mobile specific developments and driving the teams through research and innovations to build consumer solutions. Prior to that Kasun was a Senior Software Engineer at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise mobileware to solve the mobile computing challenges faced by enterprises.",
-      "company" : "DPIT",
-      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
-      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
+      "company" : "Muve",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fmuvelogo.png?alt=media&token=e20df8a5-f3f1-4571-83bf-ef83a2c79903",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fmuvelogo.png?alt=media&token=e20df8a5-f3f1-4571-83bf-ef83a2c79903",
       "country" : "Colombo , Sri Lanka",
       "featured" : true,
       "name" : "Kasun_Delgolla",
@@ -567,17 +567,17 @@
     "Chathu_Wishwajith" : {
       "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS. An Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
       "company" : "0Auth",
-      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
-      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
+      "companyLogo" : "https://media.licdn.com/dms/image/C4E0BAQFmYhtpbNoQ8w/company-logo_200_200/0?e=1547683200&v=beta&t=-i9haDSxGM72O3ZKHvMEAqAj-1VTKMwhZuxNK2svzng",
+      "companyLogoUrl" : "https://media.licdn.com/dms/image/C4E0BAQFmYhtpbNoQ8w/company-logo_200_200/0?e=1547683200&v=beta&t=-i9haDSxGM72O3ZKHvMEAqAj-1VTKMwhZuxNK2svzng",
       "country" : "Colombo , Sri Lanka",
       "featured" : true,
-      "name" : "Chathu Wishwajith",
+      "name" : "Chathu Vishwajith",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
       "shortBio" : "Chathu is a JS expert who works closely with the community",
        "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/thilinapremasiri/",
+        "link" : "https://linkedin.com/in/iamchathu/",
         "name" : "LinkedIn"
       } ],
       "title" : "Auth0 Ambassador"
@@ -606,7 +606,7 @@
       } ],
       "title" : "Senior Tech Lead"
     },
-        "Ahmad_Shah" : {
+      "Ahmad_Shah" : {
       "badges" : [ {
         "description" : "Googler",
         "link" : "www.google.com",
@@ -629,6 +629,25 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Head of Partnerships, South Asia Frontier"
+    },
+     "Fiqri_Ismail" : {
+      "bio" : "",
+      "company" : "Gapstars",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fgapstars-logo.png?alt=media&token=89e720e5-5998-4e81-b857-b53f7c258aa6",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fgapstars-logo.png?alt=media&token=89e720e5-5998-4e81-b857-b53f7c258aa6",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Fiqri Ismail",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
+      "shortBio" : "",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/fiqriismail/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Software Architect"
     }
   },
   "team" : [ {
@@ -764,7 +783,7 @@
   } ],
   "tickets" : [ {
     "available" : true,
-    "currency" : "$",
+    "currency" : "",
     "ends" : "Oct 20",
     "info" : "Requires valid NIC or passport",
     "name" : "General",
