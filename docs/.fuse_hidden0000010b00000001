@@ -1,0 +1,1159 @@
+{
+  "blog" : {
+    "c4p" : {
+      "backgroundColor" : "#3647a5",
+      "brief" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and...",
+      "content" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and entrepreneurs on **October 13-14** to Lviv.  This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide three fully independent tracks on Android, Web and Google Cloud topics.  Our focus is the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.  \"I've been to conferences all over the world and what you've created in Lviv is world class. It's easily first league of conferences.\" - Piotr Tuszynski, DevFest '16 Keynote Speaker  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>  ## Why is it cool to speak at the DevFest?  DevFest Ukraine is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage.  Here are few perks that all our speakers get:  - **Expences covered**. Hotel for 3 nights, travel costs and entrance to exclusive speaker parties are covered for all speakers. - **Professional video recording**. We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the [session videos from the last year](https://www.youtube.com/watch?v=VOwUnBkqmo4). - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. - **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare.  \"It was a best DevFest I ever attended. So professional, so much enthusiasm from the community. You managed to bring the vibe of Google I/O to Ukraine.\" - David Vávra, DevFest '16 Speaker  ## What are we looking for?  We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. Check the [list of topics](https://docs.google.com/document/d/18eGvBr6wdlXsfiZM4EK6SubfL3G1RWj-ABTBN9pngNg/edit?usp=sharing) we're interested in (it is not full and updated all the time).  ### Format  You can submit as many talks as you want. This year we accept submissions in two formats:   - 40 minutes sessions.   - 2(or 3) hours workshops.  ### Talks that will not pass initial review  - Talks about a specific tool/library/project explaining how it works or how to use it.  - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk.  - Proposals that are not in English.  - Recruitment talks to attract talent.  We strongly recommend you check out [speaking.io](http://speaking.io/) website from Zach Holman. It includes good tips and guidelines for speakers.   ## Timeline  **Call for Papers submission deadline is July 1, 2017.** Submission results will be announced by July 16.   Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
+      "image" : "/images/posts/c4p.jpg",
+      "published" : "2017-02-12",
+      "source" : "/data/posts/2017-02-12-c4p.md",
+      "title" : "We're looking for speakers"
+    },
+    "dfua-summary" : {
+      "backgroundColor" : "#ffc107",
+      "brief" : "GDG DevFest Ukraine 2016",
+      "content" : " [****DevFest Ukraine****](https://devfest.gdg.org.ua/) - it was fun, advantageous, crowded and exciting event! The scale of DevFest is simply breathtaking - 2 days full of Android, Web and Cloud hardcore!   The 5th annual conference GDG DevFest Ukraine - the biggest one related to Google techlogies in CEE - was held on September 9-10, 2016 in Lviv, Ukraine. The conference was powered by [Google Developers Group Lviv](http://lviv.gdg.org.ua/) (GDG Lviv) in together with the Google Developer Groups from all over Ukraine.   Some terrific facts about DevFest: ----------------------------------  - almost **700 attendees** - great open-minded people, full of  passion and great ideas  - incredibly high concentration of [Google Developer Experts](https://developers.google.com/experts/) in one place - **12** top-notch professionals  - **33 speakers** - well experienced, armed with knowledges and obsessed with Google technologies from all over the world  (UK, Israel, Germany, USA, Poland, Ukraine, Czech Republic, Switzerland, Romania, Turkey, Russia)  - **14** participating **GDG Groups**’ representatives (GDG Krakow, GDG Cherkasy, GDG Basel, GDG Prague, GDG Dnipro, GDG Kyiv-Center, GDG Istanbul, GDG Lviv, GDG Odessa, GDG Ternopil, GDG Uzhhorod, GDG KPI, GDG Kremenchuk, GDG Khmelnytskyi)  - **16** participating countries (UK, Israel, Germany, USA, Poland, Ukraine, Czech Republic, Switzerland, Romania, Turkey, Russia, The Netherlands, Belarus, Finland, Kazakhstan, Côte d’Ivoire)  - lots of sessions were full of deep knowledge and inspiration. Only technical stuff, only hardcore! Android sessions as always overcrowded.  <plastic-image srcset=\"/images/posts/summary16_2.jpg\" lazy-load preload fade></plastic-image>  - Progressive Web Apps (PWA) theme was the most popular on Web track, moreover, people could try it in practice on 2 workshops, hold by [Martin Splitt](http://localhost:4040/speakers/41/) and [Jakub Škvára](http://localhost:4040/speakers/18/).  <plastic-image srcset=\"/images/posts/summary16_3.jpg\" lazy-load preload fade></plastic-image>  - amazing demo zones were around (AR-music, DIY cardboards, Tilt Brush....)  <plastic-image srcset=\"/images/posts/summary16_4.jpg\" lazy-load preload fade></plastic-image>  - especially Emotobooth  <plastic-image srcset=\"/images/posts/summary16_5.jpg\" lazy-load preload fade></plastic-image>  - a big number of epic selfies :)  <plastic-image srcset=\"/images/posts/summary16_6.jpg\" lazy-load preload fade></plastic-image>  - the silent party was definitely something new for everyone! People rocked the floor like they never do before!  <plastic-image srcset=\"/images/posts/summary16_8.jpg\" lazy-load preload fade></plastic-image>   The conference became possible through the support of a number of companies. **Big THANK** to all of DevFest’s sponsors, namely: - *General partner* - [Google](https://www.google.com.ua/intl/en/about/) - *Diamond partner* - [intouch](http://www.intouchmena.com/) - *Platinum partners* - [CoreValue](http://www.corevalue.com.ua/), [GlobalLogic](http://www.globallogic.com/), [Wolters Kluwer](http://wolterskluwer.com/), [N-iX](http://n-ix.com/), [Mirantis](https://www.mirantis.com/), [DataArt](http://dataart.ua/), [Zalando](https://tech.zalando.de/), [FM Standart](http://fm-standard.com/en), [Design Proof](http://designprof.com.ua/) - Gold partners -  [Ciklum](https://www.ciklum.com/), [Sigma](http://sigma.software/), [Rucus](https://www.ruckuswireless.com/).  And, of course, a BIG THANK to all the volunteers from different GDG groups of Ukraine for their priceless help.  <plastic-image srcset=\"/images/posts/summary16_7.jpg\" lazy-load preload fade></plastic-image>  We hope you found the conference informative and worthwhile. The primary goal of DevFest  was to bring together all of you - professionals and passionate geeks of our industry - from around the world to exchange experience, share valuable knowledges and to contribute in possible strategies as to how Ukraine can become recognized and more engaged in initiatives taking place in developing IT industry and education first of all.  Your presence helped to make this event a great success, and your enthusiasm and positive spirit helped to make our time together both productive and fun.  We wish you all the best and hope that you continue to be engaged with the DevFest Ukraine. BTW, stay tuned for upcoming events by visiting [lviv.gdg.org.ua](http://lviv.gdg.org.ua/) and subscribing to our news, like us on [Facebook](https://facebook.com/GDGLviv), check [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv) or add to circles on [Google+](https://plus.google.com/b/102444623953913144164)!  Post-Conference Follow-Up ------------------------- As a reminder, we are working on transcribing the plenary sessions' slides (in ~1 week) and HD video records (in ~1-2 months), and once everything has been aggregated, we’ll notify you.  Please visit our Facebook [page](https://www.facebook.com/GDGLviv/) to view the photos, or the DevFest [website](https://devfest.gdg.org.ua/) in one week.  See you at the next events!   With love,  GDG DevFest Ukraine Team",
+      "image" : "/images/posts/summary16_1.jpg",
+      "published" : "2016-09-10",
+      "source" : "/data/posts/2016-09-10-dfua-summary.md",
+      "title" : "DevFest Ukraine rocked - SUMMARY"
+    },
+    "dfua17-announced" : {
+      "backgroundColor" : "#2196F3",
+      "brief" : "It is official. GDG DevFest Ukraine 2017 is going to take place in Lviv, on October 13-14.",
+      "content" : "It is official. GDG DevFest Ukraine 2017 is going to take place in **Lviv, on October 13-14**.  Described by many as \"Google I/O of Ukraine\", DevFest has grown from the small 100-people event to the biggest Google tech conference in the Central and Eastern Europe. This year, we expect over 900 engineers, managers, and entrepreneurs from over 20 countries come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere.  ## What to expect?  **3 parallel Tracks and Workshops Area.** You asked, we did. We're building an additional stage and expanding Workshops Area to highlight even more topics and provide more hands-on time.  **Only experience based presentations.** Speakers from product companies like Google, Intel, Amazon, and Twilio. We take talk selection seriously. Our program committee carefully screens each and every submission.  **Expo Area.** Smart home, IoT, AR/VR devices, face emotions recognition using Google Cloud. Interested? With the help of GDG groups from all around Ukraine, DevFest is going to feature the biggest Expo Area on Google related devices and technologies.  **Unique networking and party.** Network with other like-minded industry colleagues and DevFest partners throughout the event and after-party.  <div layout horizontal center-justified> <a href=\"https://2event.com/events/800690\" rel=\"noopener noreferrer\">   <paper-button primary>Buy ticket</paper-button> </a> </div>   ## Stay in touch  We've already got first confirmations from speakers from Google, Twilio and Telerik. Subscribe to [DevFest newsletter](https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe) or follow us on [Facebook](https://www.facebook.com/devfest.ukraine/), [Twitter](https://twitter.com/devfest_ukraine) and [Instagram](https://www.instagram.com/devfestukraine) not to miss new speakers announcements and conference updates.   <span><i> We can't wait to meet you in Lviv, the rising tech capital of Ukraine.</br> GDG DevFest Ukraine Team. </i></span>",
+      "image" : "/images/posts/dfua17-announced.jpg",
+      "published" : "2017-02-06",
+      "source" : "/data/posts/2017-02-06-dfua17-announced.md",
+      "title" : "Announcing GDG DevFest Ukraine 2017"
+    },
+    "thank-you" : {
+      "backgroundColor" : "#5a7785",
+      "brief" : "Our team wants to thank one more time our partners, who made GDG DevFest Ukraine 2016 possible...",
+      "content" : "We want to thank one more time our partners, who made [DevFest 2016](https://devfest.gdg.org.ua/) possible! THANK YOU for being creative and motivating our participants for new challenges, THANK YOU for your experiments and expertise during the insane 2 days of GDG DevFest Ukraine. We want to highlight the most interesting and catching moments that made our conference so special:  - Our general partner and our source of inspiration, [Google](https://www.google.com.ua/intl/en/about/),  motivated us to materialize some crazy experiments, like [Emotobooth](https://twitter.com/dfuabooth) and [AR Music Kit](https://www.androidexperiments.com/experiment/ar-music-kit)  <plastic-image srcset=\"/images/posts/thankyou_1.jpg\" lazy-load preload fade></plastic-image>  - [Intouch](http://www.intouchmena.com/), our Diamond partner, carried developers contest with magnifical prize fund of $2000  <plastic-image srcset=\"/images/posts/thankyou_2.jpg\" lazy-load preload fade></plastic-image>  - Weight research from [DataArt](http://dataart.ua/). Now we know that the biggest tech conference related to Google technologies in CEE accommodated almost 20 tons of geeks :D  <plastic-image srcset=\"/images/posts/thankyou_3.jpg\" lazy-load preload fade></plastic-image>  - Thanks to [N-iX](http://n-ix.com/) for bringing incredible HTC Vive VR experience to our house  <plastic-image srcset=\"/images/posts/thankyou_4.jpg\" lazy-load preload fade></plastic-image>   - Fresh mojito & delicious snacks from [CoreValue](http://www.corevalue.com.ua/). And even more - charges of all types, which saved a lot of devices and made possible more photos from DevFest  <plastic-image srcset=\"/images/posts/thankyou_5.jpg\" lazy-load preload fade></plastic-image>   - Big variety of different prizes from [GlobalLogic](http://www.globallogic.com/), all attendees were so excited trying to do all needed requirements (e.g. get as much likes in social networks as possible)  <plastic-image srcset=\"/images/posts/thankyou_6.jpg\" lazy-load preload fade></plastic-image>  - Flavored coffee and yaammmii cupcakes from [Wolters Kluwer](http://wolterskluwer.com/)  <plastic-image srcset=\"/images/posts/thankyou_7.jpg\" lazy-load preload fade></plastic-image>  - [Mirantis](https://www.mirantis.com/) raffled big variety of prizes  <plastic-image srcset=\"/images/posts/thankyou_8.jpg\" lazy-load preload fade></plastic-image>  - Our Platinum sponsor - [Zalando](https://tech.zalando.de/)  <plastic-image srcset=\"/images/posts/thankyou_9.jpg\" lazy-load preload fade></plastic-image>  - Our Platinum sponsor - [FM Standart](http://fm-standard.com/en) and [Design Proof](http://designprof.com.ua/)  <plastic-image srcset=\"/images/posts/thankyou_10.jpg\" style=\"width: calc(50% + 32px); display: inline-block;\" lazy-load preload fade></plastic-image> <plastic-image srcset=\"/images/posts/thankyou_11.jpg\" style=\"width: calc(50% + 32px); display: inline-block;\" lazy-load preload fade></plastic-image>  - Super robust Wi-Fi powered by our Gold partner - [Ruckus](https://www.ruckuswireless.com/). It was so good that our attendees were able to make live streams via Periscope  - [Ciklum](ttps://www.ciklum.com/) has raffled cool speakers and cups  <plastic-image srcset=\"/images/posts/thankyou_12.jpg\" lazy-load preload fade></plastic-image>  - Our Gold sponsor - [Sigma](http://sigma.software/)  <plastic-image srcset=\"/images/posts/thankyou_13.jpg\" lazy-load preload fade></plastic-image>  - [Shulga Massage](http://shulga-massage.com/) - heroes who have brought moments of real relax and peace in the center of Brownian motion of people  <plastic-image srcset=\"/images/posts/thankyou_14.jpg\" lazy-load preload fade></plastic-image>  Again, THANK YOU all, you are amazing! Hope you to join us next year!   With love, GDG DevFest Ukraine Team",
+      "image" : "/images/posts/thankyou_2.jpg",
+      "published" : "2016-09-29",
+      "source" : "/data/posts/2016-09-29-thank-you.md",
+      "title" : "Thank you all for your support"
+    },
+    "what-to-do-in-lviv" : {
+      "backgroundColor" : "#009688",
+      "brief" : "Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine.",
+      "content" : "Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine. It’s been recently gaining plenty of attention from the world, and was proudly featured on [BBC](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video) and [EuroNews](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video). City’s impressive architecture, absense of large tourist crowds and unique combination of rustiness and timelessness bring out a very special charm, capturing the hearts of everyone who’s ever visited it.  For the perfect vacation in Lviv, check out our extensive compiled selection of top things to do in Lviv!  ## Walk around Rynok Square  UNESCO-listed Rynok Square is one of the top attractions in the city! Your first stop in Lviv will inevitably lead you to the heart of the city – Rynok Square, that can be translated as Market Square. For the past 500 years it has been the bustling center of city life and till now retains all the charm of the old European city, without the pretentions of its more famous neighbors – Prague and Krakow. **Where to find:** in the very city center, hard to miss! **When to visit:** any time **How much to pay:** for FREE  ## Climb City Town Hall <plastic-image srcset=\"/images/posts/lviv2.jpg\" lazy-load preload fade></plastic-image>  How about spending 15 min counting up all the steps in Lviv Town Hall? Getting to its top is one of the most fun things to do in Lviv! We won’t break the secret to you, but will hint that the staircase has more than 300, but less than 500 steps. As they wind up to the tiny round tube at the top of the tower, the counting is even more interesting! **Where to find:** right in the middle of the Market Square (hard to miss!) **When to visit:** Tuesday – Friday from 10 am till 5 pm, Saturday – Sunday from 11 am till 7 pm. It is closed on Mondays. **How much to pay:** 5 UAH, which is 0.5 EURO  ## Take a photo with Neptun <plastic-image srcset=\"/images/posts/lviv3.jpg\" lazy-load preload fade></plastic-image>  Even though Lviv Rynok Square has a total of four fountains at each side – Diana, Neptune, Adonise and Amphitrite, local Lviv residents give their special love to Neptune. ‘Where shall we meet?’ – ‘At Neptune!’ is a typical phrase in conversations of Lviv university students.  **Where to find:** at the Rynok Square, hard to miss! **When to visit:** anytime of the year **How much to pay:** for FREE  ## Choose your favorite coffee in Svit Kavy <plastic-image srcset=\"/images/posts/lviv4.jpg\" lazy-load preload fade></plastic-image>  If you are looking for locals’ all-favorite place to sit around and watch the life pass by, go straight to the charming little coffee shop right opposite to the Boim’s Chapel and Latin Cathedral. Svit Kavy or the World of Coffee is famous for its beautiful interior, lovely summer terrace and, of course, more than 30 varieties of coffee to taste! Deliciously brewed, it will take you to the core of what Lviv is all about. **Where to find:** Katedral’na Sq. 6, between Amadeus Restaurant and Cafe1.  Svit Kavy also has a souvenir-shop that sells coffee-themed souvenirs and coffee beans; look for it to the left of the café’s main entrance **When to visit:** Mon – Fri: 8 a.m. to 8 p.m.; Sat, Sun: 9 a.m. – 11 p.m. The best time is the end of September during traditional Coffee Festival **How much to pay:** starting from 3 EURO and up  ## Buy handmade chocolate at the Lviv Chocolate Workshop <plastic-image srcset=\"/images/posts/lviv5.jpg\" lazy-load preload fade></plastic-image>  No one has the heart to pass by this tiny shop and its large glass window, stocked with rows of delicious tempting chocolate.  Right off the Rynok square, it’s a must visit place for anyone with sweet tooth. Or – what the heck – simply anyone! While first floor hosts a lovely cafe, the biggest attraction of the place – the chocolate shop – is up the narrow winding stairs. The shop features plenty of chocolate souvenirs – truffles, bars and figures of famous buildings. All the chocolate is handmade, straight from the factory, and packaged in beautiful wrapping. One perfect souvenir from Lviv! **Where to find:** Serbska st., 3 **When to visit:** Anytime of the year, 9 a.m. – 23.00. However, best time for chocolate tasting is during city’s Chocolate Festival (first week of February) **How much to pay:** 5-10 EURO at a coffee shop, 10-15 EURO at the gift shop (credit cards are accepted only at the gift shop)  ## Enjoy performances at Lviv Opera Theater <plastic-image srcset=\"/images/posts/lviv6.jpg\" lazy-load preload fade></plastic-image>  Much can be written about this most famous Lviv landmark. Known as the Grand Theater originally, it is now formally called The Lviv National Academic Theater of Opera and Ballet of Solomiya Krushelnyts’ka, in honor of Ukraine’s most well-known female opera singer. The Lviv Opera House was built in 1900 using forms of Renaissance and Baroque architecture. The result is one of the most beautiful opera houses in Europe with a luxurious interior, including the Mirror Hall and Parnassus Curtain and a stunning facade with ornate sculpture work. **Where to find:** Svobody ave., 28 **When to visit:** 11 am – 7 pm, tours are available starting from 5 pm. Alternatively, you can buy an entrance ticket and tour around the theater on your own. **How much to pay:** performance tickets cost from 0.5 EURO to 20 EURO, self-guided tour ticket is 1 EURO.  ## Take bird view photos of Lviv from the High Castle hill <plastic-image srcset=\"/images/posts/lviv7.jpg\" lazy-load preload fade></plastic-image>  Lviv High Castle can be both a major disappointment and biggest surprise to you! Why disappointment? Because despite its promising name, the place is not that high (unless 413 m is impressive for you) and has no castle whatsoever. Why surprise? Because it offers a quiet refuge from the busy city streets, and it has indubitably the best aerial views of the city! The hill, also known as Vysoky Zamok, used to be a wooden fortress, built in the 13th century by King Lev.  **Where to find:** High Castle (Vysokyi Zamok) is located just outside Lviv’s center inside Vysokyi Zamok Park. There are no direct transport links to the park, so wear good shoes and  enjoy the 15-20-minute walk from the center.  Just follow the small brown signs. **When to visit:** sunny weather is the best for great bird view of the city **How much to pay:** for FREE  ## Explore Lviv underground labyrinths <plastic-image srcset=\"/images/posts/lviv8.jpg\" lazy-load preload fade></plastic-image>  Would you like to check out the 18th century sarcophagus made from a solid stone? Its cover weighs over 600 kg. The object itself is taken apart, but the nature of wreckage indicates that sarcophagus was broken not from the outside, but …from the inside! Eerie, isn’t it? To hear the full Black Monk legend, head to the catacombs of St. Peter and Paul Cathedral of Jesuit Order.   **Where to find:** [Contact](www.activeukraine.com/contact-us/) to arrange for an underground tour of Lviv **When to visit:** any time in the day **How much to pay:** depending on your group size  ## Explore the weaponry collection at Lviv History Museum ‘Arsenal’ <plastic-image srcset=\"/images/posts/lviv9.jpg\" lazy-load preload fade></plastic-image>  Unquestionably, the biggest attraction for any male traveler in Lviv! Museum boasts thousands of weaponry items from more than 30 countries and as old as 10th century. Knives, daggers, swords, sabers, épées, yatagans, axes, halberds, maces, czekans, pernaches, and many other strange names of cold, fire and defensive weapons that will keep your interest throughout all the exhibit. The collection’s highlight is Eastern type sword from the 17th century with double blade, the so-called “Zulfakar”. **Where to find:** Pidvalna st., 5 – close to the town center **When to visit:** daily 10:00 – 17:30, except Wednesdays **How much to pay:** less than 1 EURO, extra fee is charged for photo and video footage  These and a lot of others impressive things you can do and see in Lviv!!! Try most of them! I bet you will be thrilled!",
+      "image" : "/images/posts/lviv1.jpg",
+      "published" : "2016-08-20",
+      "source" : "/data/posts/2016-08-20-what-to-do-in-lviv.md",
+      "title" : "What to do in Lviv"
+    }
+  },
+  "gallery" : [
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_8979.jpg?alt=media&token=6059aee6-1291-4cbd-8a45-b4fc5c39cf51",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9114.jpg?alt=media&token=976ab43c-ce94-4358-ac84-dddb264f5696",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9003.jpg?alt=media&token=a546f189-8523-419d-9411-da6d48fd31d6",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9107.jpg?alt=media&token=e44e05c1-5546-4aed-8844-4fbb9cd31c44",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9049.jpg?alt=media&token=24cdd57c-f2cc-4f99-8d3d-50b4af66d41a",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9125.jpg?alt=media&token=2fb9cb85-15ff-4920-8bf3-ddf27d89d4f8",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9111.jpg?alt=media&token=c0060aa4-f392-4c23-b3d8-3788f43f3a71",
+    "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/images%2FIMG_9136.jpg?alt=media&token=4589f89d-0961-4c51-8f75-8ba02a1fd45e"
+  ],
+  "notifications" : {
+    "config" : {
+      "icon" : "",
+      "timezone" : "+05:30"
+    },
+    "messages" : { },
+    "subscribers" : { },
+    "test" : { },
+    "users" : { }
+  },
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    } ,{
+      "logoUrl" : "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-card.png",
+      "name" : "Google Cloud",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }],
+
+    "title" : "Diamond Sponsor"
+  } ,{
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FopenSUSE_logo.png?alt=media&token=903855f3-c819-42b0-af75-602459e90685",
+      "name" : "jetbrains",
+      "url" : "https://www.jetbrains.com/"
+    }],
+
+    "title" : "Silver Sponsor"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://www.vectorlogo.zone/logos/jetbrains/jetbrains-card.png",
+      "name" : "open SUSE",
+      "url" : "https://www.opensuse.org/"
+    } ,{
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FGitHub-Logo.png?alt=media&token=9924aaa4-bf1e-4582-9cfc-4b28ecda6d20",
+      "name" : "GitHub",
+      "url" : "https://www.GitHub.com/"
+    } ],
+
+    "title" : "General partners"
+  },
+  {
+    "logos" : [ {
+      "logoUrl" : "http://icobi.nsbm.lk/pic/nsbm.png",
+      "name" : "NSBM Green University",
+      "url" : "https://www.nsbm.lk/"
+    } ],
+
+    "title" : "Venue partner"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Freadmelogo.png?alt=media&token=aec016f6-3833-4ace-8e85-938ea4ff547c",
+      "name" : "ReadMe",
+      "url" : "https://www.readme.lk/"
+    } ],
+
+    "title" : "Digital Media Partner"
+  }
+
+
+],
+  "schedule" : {
+    "2018-11-10" : {
+      "dateReadable" : "November 10",
+      "timeslots" : [ {
+        "endTime" : "9:00",
+        "sessions" : [ {
+          "items" : [ 200 ]
+        } ],
+        "startTime" : "08:00"
+      }, {
+        "endTime" : "09:45",
+        "sessions" : [ {
+          "items" : [ 100 ]
+        }, {
+          "items" : [ 101 ]
+        }, {
+          "items" : [ 102 ]
+        } ,{
+          "items" : [ 103 ]
+        }, 
+         {
+          "items" : [ 104 ],
+          "extend" : 4
+        }  ],
+        "startTime" : "09:00"
+      },
+      {
+        "endTime" : "10:00",
+        "sessions" : [ {
+          "items" : [ 201 ]
+        }],
+        "startTime" : "09:45"
+      }, {
+        "endTime" : "10:45",
+        "sessions" : [ {
+          "items" : [ 106 ]
+        },
+        {
+          "items" : [ 107 ]
+        },
+        {
+          "items" : [ 108 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 109 ]
+        }],
+        
+        "startTime" : "10:00"
+      }, {
+        "endTime" : "12:30",
+        "sessions" : [ {
+          "items" : [ 111 ]
+        }, {
+          "items" : [ 112 ]
+        },
+         {
+          "items" : [ 113 ]
+        } ],
+        "startTime" : "10:45"
+      }, {
+        "endTime" : "13:00",
+        "sessions" : [ {
+          "items" : [ 202 ]
+        }],
+        "startTime" : "12:30"
+      }, {
+        "endTime" : "13:10",
+        "sessions" : [ {
+          "items" : [ 117]
+        }],
+        "startTime" : "13:00"
+      }, {
+        "endTime" : "13:30",
+        "sessions" : [ {
+          "items" : [ 118]
+        }],
+        "startTime" : "13:10"
+      }, {
+        "endTime" : "14:05",
+        "sessions" : [ {
+          "items" : [ 119 ]
+        }],
+        "startTime" : "13:30"
+      } ,{
+        "endTime" : "14:20",
+        "sessions" : [ {
+          "items" : [ 204 ]
+        }],
+        "startTime" : "14:05"
+      },{
+        "endTime" : "14:55",
+        "sessions" : [ {
+          "items" : [ 120 ]
+        }],
+        "startTime" : "14:20"
+      },{
+        "endTime" : "15:30",
+        "sessions" : [ {
+          "items" : [ 121 ]
+        }],
+        "startTime" : "14:55"
+      },{
+        "endTime" : "16:00",
+        "sessions" : [ {
+          "items" : [ 203 ]
+        }],
+        "startTime" : "15:30"
+      },{
+        "endTime" : "16:10",
+        "sessions" : [ {
+          "items" : [ 204 ]
+        }],
+        "startTime" : "16:00"
+      },{
+        "endTime" : "16:45",
+        "sessions" : [ {
+          "items" : [ 122 ]
+        }],
+        "startTime" : "16:10"
+      },{
+        "endTime" : "17:15",
+        "sessions" : [ {
+          "items" : [ 123 ]
+        }],
+        "startTime" : "16:45"
+      },{
+        "endTime" : "17:45",
+        "sessions" : [ {
+          "items" : [ 124 ]
+        }],
+        "startTime" : "17:15"
+      }
+    ,{
+        "endTime" : "17:50",
+        "sessions" : [ {
+          "items" : [ 206 ]
+        }],
+        "startTime" : "17:45"
+      },{
+        "endTime" : "18:00",
+        "sessions" : [ {
+          "items" : [ 208 ]
+        }],
+        "startTime" : "17:50"
+      }],
+      "tracks" : [ {
+        "title" : "Conference hall"
+      }, {
+        "title" : "Workshop hall"
+      }]
+    }
+  },
+  "sessions" : { 
+     "100" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Cloud" ],
+      "title" : "TBD"
+    },
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "I",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ ""],
+      "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "102" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "" ],
+      "tags" : [ "ML" ],
+      "title" : "TBD"
+    },
+    "103" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "ARCore" ],
+      "title" : "TBD"
+    },
+    "104" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Flutter" ],
+      "title" : "Codelab"
+    },
+    "106" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Cloud" ],
+      "title" : "TBD"
+    },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "" ],
+      "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "108" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "ML" ],
+      "title" : "TBD"
+    },
+    "109" : {
+      "complexity" : "Beginner",
+      "description" : "ARCore is a platform for building augmented reality apps on Android. Cloud Anchors gives you the ability to create AR apps that share a common frame-of-reference, enabling multiple users to place virtual content in the same real world location that can be seen on different devices in the same position and orientation relative to the environment.This session will walk you through modifying a pre-existing ARCore app to use the Cloud Anchors APIs, and demonstrates how you can create a shared AR experience.",
+      "language" : "English",
+      "speakers" : [ "Kasun_Delgolla" ],
+      "tags" : [ "AR Core" ],
+      "title" : "AR Core with Cloud Anchors"
+    },
+    "111" : {
+      "complexity" : "advanced",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Cloud" ],
+      "title" : "TBD"
+    },
+    "112" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "" ],
+      "tags" : [ "ML" ],
+      "title" : "TBD"
+    },
+    "113" : {
+      "complexity" : "advanced",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "Keshan_Sodimana" ],
+      "tags" : [ "ML" ],
+      "title" : "TBD"
+    },
+    "114" : {
+      "complexity" : "Intermediate",
+      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Android" ],
+      "title" : "I’ve been doing some syncing…"
+    },
+    "117" : {
+      "complexity" : "Beginner",
+      "description" : ".",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "" ],
+      "title" : "Welcome note"
+    },
+    "118" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "119" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Adroid" ],
+      "title" : "Publish and Earn with Google"
+    },
+    "120" : {
+      "complexity" : "Intermediate",
+      "description" : "TBD",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "General" ],
+      "title" : "TBD"
+    },
+    "121" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "Shafraz_Rahim" ],
+      "tags" : [ "Cloud" ],
+      "title" : "TBD"
+    },
+    "122" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "OpenSource" ],
+      "title" : "TBD"
+    },
+    "123" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "" ],
+      "tags" : [ "AR","UNITY" ],
+      "title" : "TBD"
+    },
+    "124" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Cloud" ],
+      "title" : "TBD"
+    },
+    "200" : {
+      "description" : "Get your badge",
+      "icon" : "registration",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+      "title" : "Registration & morning Coffee"
+    },
+    "202" : {
+      "description" : "Foooooooood!",
+      "icon" : "lunch",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title" : "Lunch"
+    },
+    "203" : {
+      "description" : "Coffeeeeeee!",
+      "icon" : "coffee-break",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title" : "Coffee break"
+    },
+    "201" : {
+      "description" : "Coffeeeeeee!",
+      "icon" : "coffee-break",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+      "title" : "Morning coffee"
+    },
+    "204" : {
+      "description" : "",
+      "icon" : "opening",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+      "language" : "English",
+      "title" : "Entertatment Item"
+    },
+    "208" : {
+      "description" : "Great time to have some fun and meet new people",
+      "icon" : "party",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+      "title" : "Group Photo & Networking"
+    },
+    "206" : {
+      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "title" : "Thank You Speach" 
+    }
+  },
+  "speakers" : {
+    
+    "Kasun_Delgolla" : {
+      "bio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B where he leads all the mobile specific developments and driving the teams through research and innovations to build consumer solutions. Prior to that Kasun was a Senior Software Engineer at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise mobileware to solve the mobile computing challenges faced by enterprises.",
+      "company" : "DPIT",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Kasun_Delgolla",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F1508515_10203217413096068_23299796_n%20-%20Kasun%20Dananjaya.jpg?alt=media&token=dd61dd66-ffff-48a6-8727-6e2c77c8db1aw",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F1508515_10203217413096068_23299796_n%20-%20Kasun%20Dananjaya.jpg?alt=media&token=dd61dd66-ffff-48a6-8727-6e2c77c8db1a",
+      "shortBio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kasundananjaya/",
+        "name" : "Linkedin+"
+      } ],
+      "title" : "CTO "
+    },
+     "Keshan_Sodimana" : {
+      "bio" : "Keshan is the former country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "company" : "Open Data",
+      "companyLogo" : "https://media.licdn.com/dms/image/C510BAQE_ugMkHe5VFw/company-logo_200_200/0?e=1547078400&v=beta&t=G7KqHLwdNa2aNYkT-Q33QR4HXqf9pN4vI1aekdTcBPU",
+        "companyLogoUrl" : "https://media.licdn.com/dms/image/C510BAQE_ugMkHe5VFw/company-logo_200_200/0?e=1547078400&v=beta&t=G7KqHLwdNa2aNYkT-Q33QR4HXqf9pN4vI1aekdTcBPU",
+      "country" : "Colombo ,Sri Lanka",
+      "featured" : true,
+      "name" : "Keshan Sodimana",
+      "shortBio" :"Keshan is the former country engineering consultant for Google Sri Lanka",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+       "badges" : [ {
+        "description" : "GDG Sri Lanka",
+        "link" : "",
+        "name" : "gdg"
+      } ],
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/keshan",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Co - Founder Open Data"
+    },
+    "Shafraz_Rahim" : {
+      "bio" : "Shafraz is a developer relations manager for Dialog Ideamart and he has been in the industry for a long time with mobile app development and entrepreneurship as his talents.",
+      "company" : "Dialog Axiata",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Shafraz Rahim",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
+      "shortBio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/shafrazrahim/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Senior Business Lead"
+    },
+    "Chathu_Wishwajith" : {
+      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS.an Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
+      "company" : "0Auth",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/0auth.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Chathu Wishwajith",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
+      "shortBio" : "",
+       "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/thilinapremasiri/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Auth0 Ambassador"
+    },
+    "Sajeetharan_Sinnathurai" : {
+      "badges" : [ {
+        "description" : "Angular Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/sajeetharan-sinnathurai",
+        "name" : "gde"
+      } ],
+      "bio" : "Sajeetharan is a full stack developer with over 8 years of experience. He works as a Senior Tech Lead at 99X Technology (Pvt) Ltd, specializing in different software products. He is also a Microsoft MVP for developer technologies while He is the top contributor on Stack Overflow from Sri Lanka and ranks among the top 10 in the world for the tags angular, cosmosdb, etc. He makes use of his extensive knowledge over the past years to contribute to open source products to make the world a better place.",
+      "company" : "99X Technology",
+      "companyLogo" : "https://media.licdn.com/dms/image/C4E0BAQEzXye_5e8j8A/company-logo_200_200/0?e=1547078400&v=beta&t=dYQW4DOhG76BoC5VUvcpYAAZ24hV0d7G4c0Suakfx4M",
+      "companyLogoUrl" : "https://media.licdn.com/dms/image/C4E0BAQEzXye_5e8j8A/company-logo_200_200/0?e=1547078400&v=beta&t=dYQW4DOhG76BoC5VUvcpYAAZ24hV0d7G4c0Suakfx4M",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Sajeetharan Sinnathurai",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "shortBio" : "Sajeetharan is a full stack developer with over 8 years of experience.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sajeetharan",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Senior Tech Lead"
+    }
+  },
+  "team" : [ {
+    "members" : [ {
+      "name" : "Pamuditha Imalka",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpamuditha.jpg?alt=media&token=bb514fb4-87d6-4302-b63c-f9228ae15766",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+PamudithaImalka",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/pamuroky",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Pamudithaimalka",
+        "name" : "Twitter"
+      } ],
+      "title" : "Guy, who gives tasks to others"
+    }, {
+      "name" : "Milindu Sanoj",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+MilinduSanojKumarage",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/agentmilindu",
+        "name" : "Facebook"
+      } ],
+      "title" : "Person, who knows the most about meals"
+    }, {
+      "name" : "Tharaka Devinda",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Ftharaka.jpg?alt=media&token=ef994ec9-f5a2-45ae-bb21-fb5b1a376ff0",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/tdevinda",
+        "name" : "Linkedin"
+      }, null, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/tdevinda",
+        "name" : "Facebook"
+      } ],
+      "title" : "Person ,who knows the most languages"
+    }, {
+      "name" : "Udaya Gunathilaka",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+UdayaGunathilaka",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/umgunathilaka",
+        "name" : "Facebook"
+      } ],
+      "title" : "Lights, sound and wow"
+    }, {
+      "name" : "Pasan Ranathunga",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpasan.jpg?alt=media&token=58d661e8-1e91-4054-853f-eaea1146ed14",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/pasan.artz",
+        "name" : "Google+"
+      } ],
+      "title" : "Media Officer"
+    },{
+      "name" : "Michela Thalagala",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+MichelaThalagala",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/michela.thalagala",
+        "name" : "Facebook"
+      } ],
+      "title" : "Marketing & communications"
+    }, {
+      "name" : "Dilini Madhubhashini",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilini.jpg?alt=media&token=eca3ce49-330b-4eee-9e73-3a0eefd2ec60",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/112171662926048643500",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/dilini.m.weerasinghe",
+        "name" : "Facebook"
+      } ],
+      "title" : "Media & volunteers"
+    }, {
+      "name" : "Raveen Harith",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "title" : "Speaker"
+    } ],
+    "title" : "Team GDG"
+  } , {
+    "members" : [ {
+      "name" : "Asith Wijenayake",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fasith.jpg?alt=media&token=b3026d36-f4b5-4b02-a5db-8e53f3b7c0f2",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fasith.jpg?alt=media&token=b3026d36-f4b5-4b02-a5db-8e53f3b7c0f2",
+      "title" : "Design & Art Work"
+    }, {
+      "name" : "Ruwan Ranganath",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fruwan.jpg?alt=media&token=a2323a32-5910-4b90-bb56-d6dc63113091",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fruwan.jpg?alt=media&token=a2323a32-5910-4b90-bb56-d6dc63113091",
+      "title" : "Speaker & Community Organizer"
+    } ,
+    {
+      "name" : "Anusha Gamlath",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fanusha.jpg?alt=media&token=f41996bf-5490-47d1-8e7c-24919c644ef3",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fanusha.jpg?alt=media&token=f41996bf-5490-47d1-8e7c-24919c644ef3",
+      "title" : "Media Relations and Public Relations"
+    } ,
+    {
+      "name" : "Uthpala Weerakoon",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Futhpala.jpg?alt=media&token=110b2de1-993d-4eb9-89f1-f1e526dfa6c9",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Futhpala.jpg?alt=media&token=110b2de1-993d-4eb9-89f1-f1e526dfa6c9",
+      "title" : "Media Relations and Public Relations"
+    } ,
+    {
+      "name" : "Dilanka Perera",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilanka.jpg?alt=media&token=34b4b9a3-972d-4dd7-b70e-f7fea1c1fe4c",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilanka.jpg?alt=media&token=34b4b9a3-972d-4dd7-b70e-f7fea1c1fe4c",
+      "title" : "Media Relations and Public Relations"
+    } 
+  ],
+    "title" : "Program Committee"
+  } ],
+  "tickets" : [ {
+    "available" : true,
+    "currency" : "",
+    "ends" : "Oct 10",
+    "info" : "Requires valid NIC or passport",
+    "name" : "General",
+    "price" : "FREE",
+    "soldOut" : false,
+    "starts" : "Oct 01",
+    "url" : "https://rsvp.lk"
+  } ],
+  "triggers" : {
+    "images" : false
+  },
+  "videos" : [ {
+    "speakers" : "Yonatan Levin",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
+    "title" : "Making mistakes and building products from 1st to 30M users",
+    "youtubeId" : "hUY8jg9-ieE"
+  }, {
+    "speakers" : "Britt Barak",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(92).jpg?alt=media&token=0dfc3002-6d6e-4e9f-8518-5941fc501a04",
+    "title" : "When your app is asleep",
+    "youtubeId" : "D6WEL_inXxk"
+  }, {
+    "speakers" : "Asim Hussain",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(173).jpg?alt=media&token=779549b7-6578-4092-9e32-7785fff270c5",
+    "title" : "How to hack a node app?",
+    "youtubeId" : "iN92OsbtgGI"
+  }, {
+    "speakers" : "Marcos Placona",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(186).jpg?alt=media&token=54b241f6-b1d4-4357-b5a3-05e00ed55814",
+    "title" : "I just hacked your app!",
+    "youtubeId" : "GrLYrJ-aNSE"
+  }, {
+    "speakers" : "Mateusz Herych",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(238).jpg?alt=media&token=805c0d09-95ed-4d8b-8b87-85f3c4c5f427",
+    "title" : "Release Android apps globally with no headache and minimum stress",
+    "youtubeId" : "OhcJqVEnc7I"
+  }, {
+    "speakers" : "Shmuela Jacobs",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(271).jpg?alt=media&token=dfbf87f8-5a72-44cd-b2b1-3388b65ffebb",
+    "title" : "Web goes Native: Progressive Web Apps with Angular",
+    "youtubeId" : "OcIZS4jNgP0"
+  }, {
+    "speakers" : "Martin Splitt",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(81).jpg?alt=media&token=3ff4ca98-5b27-4253-a0ae-e740b6dc45a3",
+    "title" : "A look at the guts of Polymer 2.0",
+    "youtubeId" : "tRdx6Q5x3Fw"
+  }, {
+    "speakers" : "Mete Atamel",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(197).jpg?alt=media&token=83227977-a290-4816-875f-67b71586111e",
+    "title" : "Apache Beam and Google Cloud DataFlow",
+    "youtubeId" : "RxHijHZd0oM"
+  }, {
+    "speakers" : "Dmitriy Novakovskiy",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(169).jpg?alt=media&token=15f84e75-f070-4fe8-9d94-454bdf672bf9",
+    "title" : "Google Cloud Spanner: Going global with relational database",
+    "youtubeId" : "iGMjK8UY9gQ"
+  }, {
+    "speakers" : "Jose Aguinaga",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(213).jpg?alt=media&token=9b25ad9a-10d0-4887-8595-816662dc4402",
+    "title" : "Buy my mixtape: the Payment Request API in action",
+    "youtubeId" : "uDPRrmjmAD0a"
+  }, {
+    "speakers" : "Denis Radin",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(345).jpg?alt=media&token=f3e71338-c085-4fe7-b6cf-c7ef8212c930",
+    "title" : "Applying NASA coding guidelines to JavaScript or airspace is closer than you may think",
+    "youtubeId" : "E4fpZm17GNI"
+  }, {
+    "speakers" : "Yonatan Levin",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(369).jpg?alt=media&token=453207bd-cb21-41b6-a2e5-9da05273788d",
+    "title" : "Architecture Components. The one that got away",
+    "youtubeId" : "FzmDFscF41o"
+  }, {
+    "speakers" : "Michael Pustovit",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(377).jpg?alt=media&token=8c9ec397-1a38-4d7c-95ca-7d55f499eb37",
+    "title" : "Gradle scripts in Kotlin: is it cool?",
+    "youtubeId" : "XLNJkxWoCoc"
+  }, {
+    "speakers" : "Yuliya Kaleda",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(413).jpg?alt=media&token=b70b4a85-5634-4a83-8902-fa85cefb7113",
+    "title" : "Make Your App Instant!",
+    "youtubeId" : "v4RfZ0f_HVE"
+  }, {
+    "speakers" : "Tim Messerschmidt",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(350).jpg?alt=media&token=12f727f2-f9c8-4749-b76c-2da7a90cd3bb",
+    "title" : "Hands-on Flutter",
+    "youtubeId" : "0IY6J5baAj8"
+  }, {
+    "speakers" : "Gerard Sans",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(370).jpg?alt=media&token=d8627038-bb13-4e07-8e76-feca75e26086",
+    "title" : "Reactive Animations Using Angular",
+    "youtubeId" : "ij8kaavQ61Y"
+  }, {
+    "speakers" : "Tom Wilkie",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(352).jpg?alt=media&token=5656ddcc-6ff6-4846-9ef8-22bc0322a5de",
+    "title" : "gRPC & Kubernetes",
+    "youtubeId" : "YiWgWqOe_PI"
+  }, {
+    "speakers" : "Mat Ryer",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(363).jpg?alt=media&token=09ffdbc7-b717-49c8-abb8-3bae33552d14",
+    "title" : "How I build APIs capable of gigantic scale in Go",
+    "youtubeId" : "FkPqqakDeRY"
+  }, {
+    "speakers" : "Juarez Filho",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(383).jpg?alt=media&token=9aa8263d-e6b3-4141-83f9-17ef48409ec1",
+    "title" : "Let Firebase help you to build better Front-end apps",
+    "youtubeId" : "xJsgIH4U_DM"
+  }, {
+    "speakers" : "Andrey Lipattsev",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(412).jpg?alt=media&token=bf36bdf0-cea2-48a6-83e9-a3d6c3226f8f",
+    "title" : "AMP in 2018. Still fast, still furious",
+    "youtubeId" : "iPwlMr-j76w"
+  }, {
+    "speakers" : "Ihor Dvoretskyi",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(466).jpg?alt=media&token=76a822f9-9d82-4d5e-83ad-5e3f1593f2fe",
+    "title" : "Welcome to the world of Open Source. Stories by Kubernetes contributor",
+    "youtubeId" : "HhpHf3GefXI"
+  }, {
+    "speakers" : "Joanna Chwastowska",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(469).jpg?alt=media&token=80669b99-81f4-4d7d-8160-e0174da62b85",
+    "title" : "100x impact - from an Individual Contributor to Technical Leader",
+    "youtubeId" : "O1dtdDpQXU8"
+  } ],
+  "previousSpeakers": {
+    "Manikanthan_Krishnamurthy" : {
+      "bio" : "Mani is based in Google Singapore office and is in the developer relations team for South East Asia.",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "Singapore",
+      "id" : "Manikanthan_Krishnamurthy",
+      "name" : "Manikanthan Krishnamurthy",
+      "order" : 0,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FMani%20BAE_2320a.jpg?alt=media&token=567bb120-1aec-4bff-a8fb-91e58e13512d",
+      "sessions" : {
+        "2017" : [ {
+          
+          "tags" : [ "cloud" ],
+          "title" : "Cloud Functions"
+        } ]
+      },
+      "title" : "Developer Relations Program Manager"
+    },
+    "Kasun_Delgolla" : {
+      "bio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B where he leads all the mobile specific developments and driving the teams through research and innovations to build consumer solutions. Prior to that Kasun was a Senior Software Engineer at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise mobileware to solve the mobile computing challenges faced by enterprises.",
+      "company" : "DPIT",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
+      "country" : "Sri Lanka",
+      "id" : "Kasun_Delgolla",
+      "name" : "Kasun Delgolla",
+      "order" : 1,
+      "photoUrl" : "https://devfest-17.firebaseapp.com/images/people/kasun_delgolla.jpg",
+      "sessions" : {
+        "2017" : [ {
+          
+          "tags" : [ "CloudApp", "Engine" ],
+          "title" : "Deploy Node.js Express Application in App Engine"
+          
+        } ]
+        
+      },
+      "socials" : [ {
+       
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kasundananjaya/",
+        "name" : "LinkedIn"
+      }],
+      "title" : "Senior Technical Lead - Information Security"
+    },
+    "Keshan_Sodimana" : {
+      "bio" : "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "Sri Lanka",
+      "id" : "Keshan_Sodimana",
+      "name" : "Keshan Sodimana",
+      "order" : 2,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "sessions" : {
+        
+        "2016" : [ {
+          
+          "tags" : [ "Machine Learning" ],
+          "title" : "Machine Learning Codelab"
+        } ],
+        "2017" : [ {
+         "title" : "Intro to TensorFlow",
+          "tags" : [ "Machine Learning", "TensorFlow" ]
+    
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/keshan",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Country Engineering Consultant"
+    },
+    "Christina_Funk" : {
+      "bio" : "After graduating from Princeton University, Christina joined Cloud and Enterprise at Microsoft as a full stack developer, focusing on data and analytics. Last year, Christina moved to California to be a part of the Crowd 9 team in Research and Machine Intelligence at Google, where she works on creating new tools for data collection and annotation.",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "USA",
+      "id" : "Christina_Funk",
+      "name" : "Christina Funk",
+      "order" : 3,
+      "photoUrl" : "https://devfest-17.firebaseapp.com/images/people/christina_funk.jpg",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "Android", "Crowdsourcing" ],
+          "title" : "Developing Crowdsourcing Applications"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/christina-funk-506b4478/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Software Engineer"
+    },
+     "Hasitha_Liyanage" : {
+      "bio" : "Hasitha holds a B.Sc. in Computer Science and Engineering from the University of Moratuwa and has over 14 years of experience in the IT industry. He has expertise in design, architecture and development from his time at MillenniumIT, where he was a Software Architect. He was responsible for several systems ranging from high frequency trading systems for financial markets in the United States, Europe and Hong Kong, to electronic regulatory compliance systems for the Philippines and the International Labour Organization. Hasitha was also Chief Software Architect for Infoshare, and a Technology Consultant for thinkCube Systems, a digital services company specializing in cloud applications. At Sysco LABS, Hasitha heads the engineering & delivery for product engineering at SyscoLABS, leading a team of eighty engineers. Hasitha's scope includes product architecture, technology strategy, training, mentoring and skills development, project management, R&D, as well as engineering standards & processes.",
+      "company" : "Sysco LABS",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country" : "Sri Lanka",
+      "id" : "Hasitha_Liyanage",
+      "name" : "Hasitha Liyanage",
+      "order" : 4,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FHasitha.png?alt=media&token=7ff28e29-d941-4b45-ae43-8c1823f9cb3c",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "Go", "Android" ],
+          "title" : "Getting Started with Golang"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/hliyan/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Senior Director, Technology and Architecture"
+    },
+     "Priyanka_Suduge" : {
+      "bio" : "Priyanka Suduge is a Principal Software Engineer at Pearson, working on mobile technologies. He was previously employed at Canon, Sony, Virtusa and MetaTechno Inc. Japan. He brings 13 years of industry experience on various technologies including mobile, real-time systems and firmware. He holds a Bachelor's Degree in Engineering, and a Master's Degree in Software Architecture, both from University of Moratuwa.",
+      "company" : "Pearson",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/pearson.png",
+      "country" : "Sri Lanka",
+      "id" : "Priyanka_Suduge",
+      "name" : "Priyanka Suduge",
+      "order" : 5,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FProfilePic_Priyanka.jpg?alt=media&token=164934fa-c347-4e49-8e13-65213e96980a",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "Go", "Android" ],
+          "title" : "Getting Started with Golang"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/priyanka-suduge-32796923/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Principal Software Engineer"
+    },
+     "Amalka_Pathirage" : {
+      "bio" : "Amalka has been in Software Engineering for about 10 years and most of his career is focused on mobile application development and in Android. He is also keen on other mobile platforms like Windows Mobile, and iOS. Amalka is a Technical Lead in Pearson working on mobile technologies.He holds a Bachelor's Degree in IT from SLIIT and a Master's Degree in Enterprise Application Development from Sheffield Hallam University.",
+      "company" : "Pearson",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/pearson.png",
+      "country" : "Sri Lanka",
+      "id" : "Amalka_Pathirage",
+      "name" : "Amalka Pathirage",
+      "order" : 6,
+      "photoUrl" : "https://media.licdn.com/dms/image/C4D03AQEYjhR5_oAkVQ/profile-displayphoto-shrink_800_800/0?e=1541030400&v=beta&t=Nq6u42U16RaAi5S00BJMtqqN9yyjjz2kUTSb82-gi7Q",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "Kotlin", "Android" ],
+          "title" : "Taking Advantage Of Kotlin"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/amalka-pathirage-65ba3a13",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Senior Technical Lead"
+    },
+     "Shafraz_Rahim" : {
+      "bio" : "Shafraz is a developer relations manager for Dialog Ideamart and he has been in the industry for a long time with mobile app development and entrepreneurship as his talents.",
+      "company" : "Dialog Axiata",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "country" : "Sri Lanka",
+      "id" : "Shafraz_Rahim",
+      "name" : "Shafraz Rahim",
+      "order" : 7,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "NLP", "Ideamart" ],
+          "title" : "Build an Interactive Customer Review System using Google NLP and Ideamart APIs"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/shafrazrahim/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Senior Business Lead"
+    },
+     "Lucas_Dixon" : {
+      "bio" : "Lucas Dixon is Chief Scientist at Jigsaw. His work focuses on security, machine intelligence and data visualization. Public projects he helped build include uProxy, Project Shield, DigitalAttackMap, Syria Defection Tracker, and unfiltered.news. He currently leads the Conversation AI research effort. Before Google and Jigsaw, Lucas was a scientist at the University of Edinburgh and worked on the automation of mathematical thinking, graphical languages to describe quantum information, and technology to enable more rational and informed debate. He was a co-founder of TheoryMine Ltd., a company automates the discovers new non-trivial mathematical theorems. He received his PhD in Computer Science and Artificial Intelligence from the University of Edinburgh.",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "USA",
+      "id" : "Lucas_Dixon",
+      "name" : "Lucas Dixon",
+      "order" : 8,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FLucas%20Dixon%20.jpg?alt=media&token=0fa00415-c39e-4824-b715-fd8db1a4a093",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "machine intelligence" ],
+          "title" : "The Conversation AI Perspective"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/lucas-dixon-94070354/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Chief Scientist"
+    },
+    "Michael_Tseng" : {
+      "bio" : "After completing undergraduate studies in Greek, Latin, German, and mathematics at the University of Pennsylvania and graduate studies in linguistics at UCLA, He joined Google to work on human computation (crowdsourcing) in Ads, Research, and Machine Intelligence. he is particularly interested in empowering people everywhere to contribute unique insights from their daily experiences, which will make our products more humanistic and more representative of the diversity of the world.",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "USA",
+      "id" : "Michael_Tseng",
+      "name" : "Michael Tseng",
+      "order" : 9,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FMicheal.jpeg?alt=media&token=c9fd8e46-6685-4fba-92c2-0650ab823ce6",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "machine intelligence","Linguist" ],
+          "title" : "Linguistic Wisdom from the Crowd"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/michaeltseng/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Linguis"
+    },
+    "Thilina_Premasiri" : {
+      "bio" : "Thilina is an expert in game development who has spearheaded the development of Sri Lanka's first ever mainstream 3D game 'Kanchayudha' and currently works with Arimac on the 3D game development animations.",
+      "company" : "Arimac",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/arimac.png",
+      "country" : "Sri Lanka",
+      "id" : "Thilina_Premasiri",
+      "name" : "Thilina Premasiri",
+      "order" : 10,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FThilina.jpg?alt=media&token=c2b2d4a2-3e10-4df6-bfb1-8b96689146f8",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "Unity" ],
+          "title" : "Game development demo with Unity"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/thilinapremasiri/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Director | Head of Game Development"
+    }
+  },"Chathu Wishwajith" : {
+      "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS.an Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
+      "company" : "0Auth",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/0auth.pngg",
+      "country" : "Sri Lanka",
+      "id" : "Chathu_Wishwajith",
+      "name" : "Chathu Wishwajith",
+      "order" : 11,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
+      "sessions" : {
+        "2017" : [ {
+       
+          "tags" : [ "JavaScript" ],
+          "title" : "It's someone else's servers"
+          
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/thilinapremasiri/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Auth0 Ambassador"
+    }
+}
