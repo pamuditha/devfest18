@@ -334,9 +334,9 @@
       "complexity" : "Beginner",
       "description" : "",
       "language" : "English",
-      "speakers" : [ "" ],
+      "speakers" : [ "Sajeetharan_Sinnathurai" ],
       "tags" : [ "Web" ],
-      "title" : "TBD"
+      "title" : "Angular from Zero to Hero"
     },
     "108" : {
       "complexity" : "Intermediate",
@@ -369,9 +369,9 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Sajeetharan_Sinnathurai" ],
       "tags" : [ "Web" ],
-      "title" : "TBD"
+      "title" : "Angular from Hero to SuperHero"
     },
     "113" : {
       "complexity" : "advanced",
@@ -507,16 +507,16 @@
   "speakers" : {
     
     "Kasun_Delgolla" : {
-      "bio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B where he leads all the mobile specific developments and driving the teams through research and innovations to build consumer solutions. Prior to that Kasun was a Senior Software Engineer at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise mobileware to solve the mobile computing challenges faced by enterprises.",
+      "bio" : "Kasun is currently working as the CTO of Muve Australia where he leads all the platform developments and driving the teams through research and innovations to build various revolutionary solutions. Prior to that Kasun was the the Architect - Mobility, specializing cyber security at Authnex Inc which was a subsidiary of David Peiris Group.He has also worked at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise middleware to solve the mobile computing challenges faced by enterprises",
       "company" : "Muve",
       "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fmuvelogo.png?alt=media&token=e20df8a5-f3f1-4571-83bf-ef83a2c79903",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fmuvelogo.png?alt=media&token=e20df8a5-f3f1-4571-83bf-ef83a2c79903",
       "country" : "Colombo , Sri Lanka",
       "featured" : true,
-      "name" : "Kasun_Delgolla",
+      "name" : "Kasun Delgolla",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F1508515_10203217413096068_23299796_n%20-%20Kasun%20Dananjaya.jpg?alt=media&token=dd61dd66-ffff-48a6-8727-6e2c77c8db1aw",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F1508515_10203217413096068_23299796_n%20-%20Kasun%20Dananjaya.jpg?alt=media&token=dd61dd66-ffff-48a6-8727-6e2c77c8db1a",
-      "shortBio" : "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B.",
+      "shortBio" : "Kasun is currently working as the CTO of Muve Australia where he leads all the platform developments and driving the teams through research and innovations to build various revolutionary solutions.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/kasundananjaya/",
@@ -631,16 +631,16 @@
       "title" : "Head of Partnerships, South Asia Frontier"
     },
      "Fiqri_Ismail" : {
-      "bio" : "",
-      "company" : "Gapstars",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fgapstars-logo.png?alt=media&token=89e720e5-5998-4e81-b857-b53f7c258aa6",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Fgapstars-logo.png?alt=media&token=89e720e5-5998-4e81-b857-b53f7c258aa6",
+      "bio" : "Fiqri is an Architect and Development Technologies Microsoft MVP for 12 consecutive years.He has more than 15 years of experience in the industry. His expertise expands in to various technologies such in .NET, C#, JavaScript, Delphi, PHP, Azure and Cloud Technologies. Also, he is the author of the book .NET Standard 2.0 Cookbook. Also Fiqri is the community leader, a speaker at Sri Lanka Developer Forum and writes articles on a variety of subjects on his personal blog.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
       "country" : "Colombo , Sri Lanka",
       "featured" : true,
       "name" : "Fiqri Ismail",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
-      "shortBio" : "",
+      "shortBio" : "Fiqri is an Architect and Development Technologies Microsoft MVP for 12 consecutive years.He has more than 15 years of experience in the industry.",
       "socials" : [ 
        {
         "icon" : "linkedin",
