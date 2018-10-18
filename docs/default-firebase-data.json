@@ -784,11 +784,11 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "",
-    "ends" : "Oct 20",
+    "ends" : "Oct 18",
     "info" : "Requires valid NIC or passport",
     "name" : "General",
     "price" : "FREE",
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Oct 15",
     "url" : "http://devfest18.rsvp.lk/gdgsrilanka/devfest-2018"
   } ],
