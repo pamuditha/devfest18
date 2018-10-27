@@ -122,6 +122,15 @@
     } ],
 
     "title" : "Digital Media Partner"
+  },
+  {
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FIdeaMart.png?alt=media&token=53552310-b1c0-480a-9cf9-b77ae71ade79",
+      "name" : "Ideamart",
+      "url" : "http://www.ideamart.lk/"
+    } ],
+
+    "title" : "Communication Partner"
   }
 
 
@@ -144,7 +153,8 @@
         }, {
           "items" : [ 102 ]
         } ,{
-          "items" : [ 103 ]
+          "items" : [ 109 ],
+          "extend" : 2
         }, 
          {
           "items" : [ 104 ],
@@ -169,9 +179,6 @@
         {
           "items" : [ 108 ],
           "extend" :2
-        }, {
-          "extend" : 2,
-          "items" : [ 109 ]
         }],
         
         "startTime" : "10:00"
@@ -181,6 +188,9 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
+        },
+      {
+          "items" : [ 103 ]
         }],
         "startTime" : "10:45"
       }, {
@@ -296,19 +306,19 @@
       "title" : "TBD"
     },
     "102" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermediate",
       "description" : "",
       "language" : "English",
-      "speakers" : [ "" ],
+      "speakers" : [ "Raveen_Harith" ],
       "tags" : [ "ML" ],
-      "title" : "TBD"
+      "title" : "Get your hands dirty with Tensorflow"
     },
     "103" : {
       "complexity" : "Intermediate",
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Sharatchandra_Aithal" ],
       "tags" : [ "ARCore" ],
       "title" : "TBD"
     },
@@ -440,15 +450,15 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
-      "tags" : [ "OpenSource" ],
-      "title" : "TBD"
+      "speakers" : [ "Chamantha_De_Silva" ],
+      "tags" : [ "Cloud" ],
+      "title" : "The Perfect duo, Microservices and Kubernetes"
     },
     "123" : {
       "complexity" : "Intermediate",
       "description" : "",
       "language" : "English",
-      "speakers" : [ "" ],
+      "speakers" : [ "Sharatchandra_Aithal" ],
       "tags" : [ "AR","UNITY" ],
       "title" : "TBD"
     },
@@ -648,6 +658,68 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Software Architect"
+    },
+     "Raveen_Harith" : {
+      "bio" : "Raveen currently works as a Software Engineer at MillenniumIT and is also an organizer of GDG Sri Lanka. He is also the co-founder of RSVP.LK and is a mentor for Google Summer of Code and Google Code-in for SCoRe Lab.",
+      "company" : "MillenniumIT",
+      "companyLogo" : "https://slasscom.lk/sites/default/files/Millenniuum_logo_RGB_WB_ORANGE.jpg",
+      "companyLogoUrl" : "https://slasscom.lk/sites/default/files/Millenniuum_logo_RGB_WB_ORANGE.jpg",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+        "badges" : [ {
+        "description" : "GDG Sri Lanka",
+        "link" : "",
+        "name" : "gdg"
+      } ],
+      "name" : "Raveen Harith Perera",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "shortBio" : "Raveen currently works as a Software Engineer at MillenniumIT and is also an organizer of GDG Sri Lanka.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/rhperera/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Software Engineer"
+    },
+    "Sharatchandra_Aithal" : {
+      "bio" : "Sharatchandra Aithal who is the latest member of the Unity India team has been using Unity 3D for over 10 years spanning from Gaming to the Non Gaming segments of the industry. Previously as an entrepreneur, sharatchandra has delivered a multitude of projects in the XR space.",
+      "company" : "Unity",
+      "companyLogo" : "https://banner2.kisspng.com/20180708/jyu/kisspng-unity-3d-computer-graphics-video-game-logo-game-en-hands-unity-5b41e77236aac3.1283681515310457462239.jpg",
+      "companyLogoUrl" : "https://banner2.kisspng.com/20180708/jyu/kisspng-unity-3d-computer-graphics-video-game-logo-game-en-hands-unity-5b41e77236aac3.1283681515310457462239.jpg",
+      "country" : "India",
+      "featured" : true,
+      "name" : "Sharatchandra Aithal",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FScreen_Shot_2018-08-02_at_2.webp?alt=media&token=35a5cee7-bc95-4d43-8bc3-f56d7e6ede9e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FScreen_Shot_2018-08-02_at_2.webp?alt=media&token=35a5cee7-bc95-4d43-8bc3-f56d7e6ede9e",
+      "shortBio" : "Sharatchandra Aithal who is the latest member of the Unity India team has been using Unity 3D for over 10 years spanning from Gaming.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sharatchandra-aithal-08304a39/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Field Engineer"
+    },
+     "Chamantha_De_Silva" : {
+      "bio" : "Chamantha is currently working as a Technical Lead for SyscoLabs.Experienced, delivery-focused developer/development manager. Has designed and built successful enterprise API solutions, API Management solutions for Cake Corporation and Sysco. Furthermore, he has worked on surrounded technologies including areas such as securing services using OpenID Connect/SAML and OAuth2. Prior to SyscoLABS, Chamantha has built solutions for Thomson Reuters Health Care (now Truven Health Analytics) during his career in Virtusa Corporation. Currently playing a pivotal role as an evangelizer on product innovation and engineering in Sysco integration space Chamantha has a BSc in Computer Science from the Staffordshire University.",
+      "company" : "SyscoLabs",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Chamantha De Silva",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FChamantha.jpg?alt=media&token=45da2c04-1d62-46f6-ac52-667352f36e78",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FChamantha.jpg?alt=media&token=45da2c04-1d62-46f6-ac52-667352f36e78",
+      "shortBio" : "Chamantha is currently working as a Technical Lead for SyscoLabs.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/chamantha/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Technical Lead"
     }
   },
   "team" : [ {
