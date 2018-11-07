@@ -149,12 +149,12 @@
         "sessions" : [ {
           "items" : [ 100 ]
         }, {
-          "items" : [ 101 ]
+          "items" : [ 107 ]
         }, {
           "items" : [ 102 ]
         } ,{
           "items" : [ 109 ],
-          "extend" : 2
+          "extend" : 3
         }, 
          {
           "items" : [ 104 ],
@@ -190,7 +190,9 @@
           "items" : [ 112 ]
         },
       {
-          "items" : [ 103 ]
+          "items" : []
+        },{
+          "items" : [103]
         }],
         "startTime" : "10:45"
       }, {
@@ -206,78 +208,78 @@
         }],
         "startTime" : "13:00"
       }, {
-        "endTime" : "13:30",
+        "endTime" : "13:35",
         "sessions" : [ {
           "items" : [ 118]
         }],
-        "startTime" : "13:10"
+        "startTime" : "13:15"
       }, {
-        "endTime" : "14:05",
+        "endTime" : "14:15",
         "sessions" : [ {
           "items" : [ 119 ]
         }],
-        "startTime" : "13:30"
+        "startTime" : "13:40"
       } ,{
-        "endTime" : "14:20",
-        "sessions" : [ {
-          "items" : [ 204 ]
-        }],
-        "startTime" : "14:05"
-      },{
-        "endTime" : "14:55",
+        "endTime" : "14:50",
         "sessions" : [ {
           "items" : [ 120 ]
         }],
         "startTime" : "14:20"
       },{
-        "endTime" : "15:30",
+        "endTime" : "15:15",
         "sessions" : [ {
           "items" : [ 121 ]
         }],
         "startTime" : "14:55"
       },{
-        "endTime" : "16:00",
+        "endTime" : "15:35",
         "sessions" : [ {
           "items" : [ 203 ]
         }],
-        "startTime" : "15:30"
+        "startTime" : "15:15"
       },{
-        "endTime" : "16:10",
-        "sessions" : [ {
-          "items" : [ 204 ]
-        }],
-        "startTime" : "16:00"
-      },{
-        "endTime" : "16:45",
+        "endTime" : "16:00",
         "sessions" : [ {
           "items" : [ 122 ]
         }],
-        "startTime" : "16:10"
+        "startTime" : "15:35"
       },{
-        "endTime" : "17:15",
+        "endTime" : "16:25",
         "sessions" : [ {
-          "items" : [ 123 ]
+          "items" : [ 125 ]
         }],
-        "startTime" : "16:45"
+        "startTime" : "16:05"
       },{
-        "endTime" : "17:45",
+        "endTime" : "16:35",
+        "sessions" : [ {
+          "items" : [ 204 ]
+        }],
+        "startTime" : "16:25"
+      },{
+        "endTime" : "17:05",
         "sessions" : [ {
           "items" : [ 124 ]
         }],
-        "startTime" : "17:15"
+        "startTime" : "16:35"
+      },{
+        "endTime" : "17:25",
+        "sessions" : [ {
+          "items" : [ 123 ]
+        }],
+        "startTime" : "17:05"
       }
     ,{
-        "endTime" : "17:50",
+        "endTime" : "17:30",
         "sessions" : [ {
           "items" : [ 206 ]
         }],
-        "startTime" : "17:45"
+        "startTime" : "17:25"
       },{
         "endTime" : "18:00",
         "sessions" : [ {
           "items" : [ 208 ]
         }],
-        "startTime" : "17:50"
+        "startTime" : "17:30"
       }],
       "tracks" : [ {
         "title" : "Conference hall"
@@ -292,7 +294,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Milindu_Sanoj" ],
       "tags" : [ "Cloud" ],
       "title" : "TBD"
     },
@@ -336,7 +338,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Milindu_Sanoj" ],
       "tags" : [ "Cloud" ],
       "title" : "TBD"
     },
@@ -355,7 +357,7 @@
       "presentation" : "",
       "speakers" : [ "Keshan_Sodimana" ],
       "tags" : [ "ML" ],
-      "title" : "TBD"
+      "title" : "Let's Kaggle"
     },
     "109" : {
       "complexity" : "Beginner",
@@ -390,7 +392,7 @@
       "presentation" : "",
       "speakers" : [ "Keshan_Sodimana" ],
       "tags" : [ "ML" ],
-      "title" : "TBD"
+      "title" : "Let's Kaggle"
     },
     "114" : {
       "complexity" : "Intermediate",
@@ -414,7 +416,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
+      "speakers" : [ "Rohan_Jayaweera" ],
       "tags" : [ "Web" ],
       "title" : "TBD"
     },
@@ -432,9 +434,9 @@
       "description" : "TBD",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "" ],
-      "tags" : [ "General" ],
-      "title" : "TBD"
+      "speakers" : [ "Sharatchandra_Aithal" ],
+      "tags" : [ "UNITY, AR"],
+      "title" : "ARCore and Unity Google Partnership"
     },
     "121" : {
       "complexity" : "Beginner",
@@ -458,9 +460,9 @@
       "complexity" : "Intermediate",
       "description" : "",
       "language" : "English",
-      "speakers" : [ "Sharatchandra_Aithal" ],
-      "tags" : [ "AR","UNITY" ],
-      "title" : "TBD"
+      "speakers" : [ "Malinda_Rathnayake" ],
+      "tags" : [ "IOT" ],
+      "title" : "Four Whys of NB-IoT"
     },
     "124" : {
       "complexity" : "Intermediate",
@@ -470,6 +472,15 @@
       "speakers" : [ "Fiqri_Ismail" ],
       "tags" : [ "Cloud" ],
       "title" : "Your first ASP.NET Core Application in GCP"
+    },
+      "125" : {
+      "complexity" : "Intermediate",
+      "description" : ".",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "Lilan_Priyashantha" ],
+      "tags" : [ "General" ],
+      "title" : "Career Development of Engineers "
     },
     "200" : {
       "description" : "Get your badge",
@@ -576,7 +587,7 @@
     },
     "Chathu_Wishwajith" : {
       "bio" : "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS. An Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
-      "company" : "0Auth",
+      "company" : "Auth0",
       "companyLogo" : "https://media.licdn.com/dms/image/C4E0BAQFmYhtpbNoQ8w/company-logo_200_200/0?e=1547683200&v=beta&t=-i9haDSxGM72O3ZKHvMEAqAj-1VTKMwhZuxNK2svzng",
       "companyLogoUrl" : "https://media.licdn.com/dms/image/C4E0BAQFmYhtpbNoQ8w/company-logo_200_200/0?e=1547683200&v=beta&t=-i9haDSxGM72O3ZKHvMEAqAj-1VTKMwhZuxNK2svzng",
       "country" : "Colombo , Sri Lanka",
@@ -622,7 +633,7 @@
         "link" : "www.google.com",
         "name" : "google"
       } ],
-      "bio" : "",
+      "bio" : "Googler helping apps publishers in South Asia grow their businesses.Previosuly, he led Content and Digital services team at Telenor and oversaw the launch of internet-based services ( apps/ mobile responsive portals ) both in-house and in partnerships with publishers. Devised strategic blueprint for entertainment product partnerships and drove mobile4develpment (health, education and mAgriculture) agenda.Prior to Telenor, he graduated from the full-time MBA program at UCLA Anderson in July 2013, where he was US Fulbright Scholar. As Summer Associate for Adobe, Inc. he worked on Business Process Optimization project. Overall, he has over 6 years experience in cellular industry in various roles.His specialties are Product Management, Project Management, Content Acquistion,Product Marketing, Development, Market Analytics, Feasibility Research, Product Design, Cross-functional Leadership, Contract Negotiation, Obtaining Approvals",
       "company" : "Google",
       "companyLogo" : "../images/logos/google.svg",
       "companyLogoUrl" : "../images/logos/google.svg",
@@ -631,7 +642,7 @@
       "name" : "Ahmad Shah Nawaz",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
-      "shortBio" : "",
+      "shortBio" : "Googler helping apps publishers in South Asia grow their businesses.Previosuly, he led Content and Digital services team at Telenor and oversaw the launch of internet-based services ( apps/ mobile responsive portals ) both in-house and in partnerships with publishers.",
       "socials" : [ 
        {
         "icon" : "linkedin",
@@ -661,9 +672,9 @@
     },
      "Raveen_Harith" : {
       "bio" : "Raveen currently works as a Software Engineer at MillenniumIT and is also an organizer of GDG Sri Lanka. He is also the co-founder of RSVP.LK and is a mentor for Google Summer of Code and Google Code-in for SCoRe Lab.",
-      "company" : "MillenniumIT",
-      "companyLogo" : "https://slasscom.lk/sites/default/files/Millenniuum_logo_RGB_WB_ORANGE.jpg",
-      "companyLogoUrl" : "https://slasscom.lk/sites/default/files/Millenniuum_logo_RGB_WB_ORANGE.jpg",
+      "company" : "LSEG Technology",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
       "country" : "Colombo , Sri Lanka",
       "featured" : true,
         "badges" : [ {
@@ -720,6 +731,87 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Technical Lead"
+    },
+     "Lilan_Priyashantha" : {
+      "bio" : "",
+      "company" : "LSEG Technology",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Lilan Priyashantha",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FFB_IMG_1541052051893.jpg?alt=media&token=5578ef9d-413c-4d56-991c-325b7b88fae5",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FFB_IMG_1541052051893.jpg?alt=media&token=5578ef9d-413c-4d56-991c-325b7b88fae5",
+      "shortBio" : "",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/lilanpriyashantha",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Cheif Engineer Trading Systems"
+    },
+     "Rohan_Jayaweera" : {
+      "bio" : "",
+      "company" : "Palo Alto Networks",
+      "companyLogo" : "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
+      "companyLogoUrl" : "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Rohan Jayaweera",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
+      "shortBio" : "",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/rohan-jayaweera-9b42a95",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Country General Manager"
+    },
+       "Milindu_Sanoj" : {
+      "bio" : "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs. Have been working with GDG Sri Lanka for about couple of years and now managing the GDG Cloud Sri Lanka chapter. Open source enthusiast and has contributed to Apache, Sahana and several other organisations.",
+      "company" : "SyscoLabs",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Milindu Sanoj",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "shortBio" : "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/agentmilindu",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "GCP Google Developer Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
+      "title" : "Software Engineer"
+    },
+    "Malinda_Rathnayake" : {
+      "bio" : "Malinda received his Bachelor of Engineering (B.Eng) in Software Engineering from the University of Westminster, UK. He has over 8 years of experience in different technological fields and currently work at Dialog Axiata, leading Ideamart platform development, IoT Research and Product Development. He is the co founder of Creacle - a software development startup and also worked as a contributor for Hanthana Linux. Malinda is the creator of slr.malindaprasad,com, the popular public train schedule website. He loves music, photography and his car KT 2019.",
+      "company" : "Ideamart",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Malinda Rathnayake",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FMalinda%20Rathnayake.jpg?alt=media&token=f6cf7588-cb21-4606-a120-1de3c818dead",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FMalinda%20Rathnayake.jpg?alt=media&token=f6cf7588-cb21-4606-a120-1de3c818dead",
+      "shortBio" : "Malinda received his Bachelor of Engineering (B.Eng) in Software Engineering from the University of Westminster, UK.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/malindaprasad",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Four Whys of NB-IoT"
     }
   },
   "team" : [ {
@@ -800,7 +892,7 @@
         "link" : "https://www.facebook.com/michela.thalagala",
         "name" : "Facebook"
       } ],
-      "title" : "Marketing & communications"
+      "title" : "Princess of Prague"
     }, {
       "name" : "Dilini Madhubhashini",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilini.jpg?alt=media&token=eca3ce49-330b-4eee-9e73-3a0eefd2ec60",
@@ -813,11 +905,11 @@
         "link" : "https://www.facebook.com/dilini.m.weerasinghe",
         "name" : "Facebook"
       } ],
-      "title" : "Media & volunteers"
+      "title" : "Coordinator Wedding pre shoot"
     }, {
       "name" : "Raveen Harith",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
-      "title" : "Speaker"
+      "title" : "The only Panthera Pardus Kotiya outside Yala"
     } ],
     "title" : "Team GDG"
   } , {
