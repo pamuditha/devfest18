@@ -22,8 +22,9 @@
   "position": "Position",
   "country": "Country",
   "time": "Time",
-  "faq": "",
+  "faq": "/data/faq.md",
   "cod": "/data/cod.md",
+  "attending":"/data/attending.md",
   "mySchedule": {
     "title": "My Schedule",
     "browseSession": "Browse sessions"

@@ -329,7 +329,7 @@
       "description" : "",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "Chathu_Wishwajith" ],
+      "speakers" : [ "Chathu_Wishwajith","Maneesha_Erandi" ],
       "tags" : [ "Flutter" ],
       "title" : "Codelab"
     },
@@ -752,7 +752,7 @@
       "title" : "Cheif Engineer Trading Systems"
     },
      "Rohan_Jayaweera" : {
-      "bio" : "",
+      "bio" : "Rohan is currently the Country General Manager for Palo Alto Networks. The world’s leader in cyber security deliverying end to end security for organisations. Rohan is also a director of the only boutique & exclusive omni­channel digital experience management company ­ Antyra Solutions. Antyra Solutions is a unique digital services business in Sri Lanka with some of the most digitally demanding customers in it’s portfolio. Antyra delivers an end to end experience & a single point of accountability for customers on digital engagements.Before Antyra, Rohan’s most significant career position was being the first representative of Google for Sri Lanka. The work he started at Google he extended from Google onto Antyra with a more holistic view by helping brands, organizations and Sri Lanka government to develop its digital practices. As the Country Consultant at Google for Sri Lanka & Maldives he managed all engagements to and from Google for Sri Lanka during his tenure which included digital practice, policy framework, publisher, video & telco partnerships,community and entrepreneurship development. Rohan has deep understanding of channel/partner and eco­system business development having worked with technology brands. Rohan was a lead management consultant for IT sector based in Singapore & held leadership positions in Cisco, Lenovo & IBM across geographies. At early days he was awarded the prestigious award of head prefectship of Royal College.Rohan is passionate about entrepreneurship & Innovation. He is a key note speaker, presenter, moderator for countless events & was invited to speak at the inaugural TEDx in SL on entrepreneurship.",
       "company" : "Palo Alto Networks",
       "companyLogo" : "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
       "companyLogoUrl" : "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
@@ -761,7 +761,7 @@
       "name" : "Rohan Jayaweera",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
-      "shortBio" : "",
+      "shortBio" : "Rohan is currently the Country General Manager for Palo Alto Networks. The world’s leader in cyber security deliverying end to end security for organisations.",
       "socials" : [ 
        {
         "icon" : "linkedin",
@@ -809,6 +809,25 @@
        {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/malindaprasad",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Four Whys of NB-IoT"
+    },
+        "Maneesha_Erandi" : {
+      "bio" : "Maneesha Graduated from UCSC and is currently a Developer at RSVP.LK and also a Flutter enthusiast.",
+      "company" : "RSVP.LK",
+      "companyLogo" : "https://media.licdn.com/dms/image/C560BAQHC6JkBZ-9eWA/company-logo_200_200/0?e=1549497600&v=beta&t=Bfz4jcaqRFnCD3KhO80Gq-sHLaCdtmSBT3TAP1vEItI",
+      "companyLogoUrl" : "https://media.licdn.com/dms/image/C560BAQHC6JkBZ-9eWA/company-logo_200_200/0?e=1549497600&v=beta&t=Bfz4jcaqRFnCD3KhO80Gq-sHLaCdtmSBT3TAP1vEItI",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Maneesha Erandi",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Fmaneesha.jpg?alt=media&token=04af52dc-86fc-470b-a75d-ed474491db3e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Fmaneesha.jpg?alt=media&token=04af52dc-86fc-470b-a75d-ed474491db3e",
+      "shortBio" : "Maneesha Graduated from UCSC and is currently a Developer at RSVP.LK and also a Flutter enthusiast.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/maneesha-erandi",
         "name" : "LinkedIn"
       } ],
       "title" : "Four Whys of NB-IoT"
